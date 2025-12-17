@@ -12,7 +12,7 @@ if not torch.cuda.is_available():
 # =========================
 # Config
 # =========================
-BASE_MODEL = "unsloth/gemma-2-2b-it"
+BASE_MODEL = "Sahabat-AI/gemma2-9b-cpt-sahabatai-v1-base"
 ADAPTER_REPO = "diordty/gemma2b-lora-pmb-uajy"
 
 st.set_page_config(page_title="Chatbot PMB UAJY (LoRA)", page_icon="🤖", layout="centered")
