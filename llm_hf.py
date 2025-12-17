@@ -5,7 +5,7 @@ import torch
 
 @dataclass
 class LLMClientHF:
-    model_name: str = "microsoft/Phi-3-mini-4k-instruct"
+    model_name: str = "diordty/gemma2b-lora-pmb-uajy"
     device: Optional[str] = None  
 
     def __post_init__(self):
