@@ -3,6 +3,11 @@ import streamlit as st
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from peft import PeftModel
+import torch, streamlit as st
+
+if not torch.cuda.is_available():
+    st.error("Deployment ini butuh GPU. Streamlit Cloud biasanya CPU-only, jadi model tidak bisa di-load di sini.")
+    st.stop()
 
 # =========================
 # Config
