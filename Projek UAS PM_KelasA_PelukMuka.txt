@@ -1,2 +1,4 @@
 Dataset: https://github.com/dionisioraditya/Projek-UAS-PM_A_PelukMuka/blob/master/dataset_pmb_uajy.json
-Streamlit: https://chatpmbuajy.streamlit.app/
+app gradio: https://huggingface.co/spaces/diordty/chatbot-pmb-uajy    (error karena tidak kuat menjalankan model 9B parameter)
+sahabat ai 9b fine tunned: https://huggingface.co/diordty/gemma2b-lora-pmb-uajy  
+pdf noteboook: https://github.com/dionisioraditya/Projek-UAS-PM_A_PelukMuka/blob/master/Projek%20UAS_KelasA_PelukMuka.pdf
