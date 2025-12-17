@@ -6,19 +6,21 @@ st.set_page_config(page_title="Chatbot PMB UAJY")
 @st.cache_resource
 def load_llm():
     return LLMClientHF(
-        model_name="placeholder"  # ganti ke repo 
+        model_name= "diordty/gemma2b-lora-pmb-uajy"
     )
 
 llm = load_llm()
 
 def format_prompt(question, history=""):
-    return f"""
-Kamu adalah chatbot resmi PMB UAJY.
-Jawab pertanyaan dengan jelas, singkat, dan akurat.
+    return f"""### Category: PMB_Umum
+### Instruction:
+Jawablah pertanyaan berikut berdasarkan informasi resmi PMB Universitas Atma Jaya Yogyakarta.
 
+### Input:
 {history}
-User: {question}
-Assistant:
+{question}
+
+### Response:
 """.strip()
 
 st.title("🎓 Chatbot PMB UAJY")
@@ -37,16 +39,16 @@ if user_input:
     st.session_state.messages.append(("user", user_input))
 
     history_text = ""
-    for role, msg in st.session_state.messages[:-1]:
+    MAX_TURNS = 3
+    for role, msg in st.session_state.messages[-2*MAX_TURNS:-1]:
         history_text += f"{role.capitalize()}: {msg}\n"
 
     prompt = format_prompt(user_input, history_text)
 
-    response = llm.ask(
-        prompt,
-        temperature=0.0,
-        max_tokens=128
-    )
+    try:
+        response = llm.ask(prompt, temperature=0.0, max_tokens=128)
+    except Exception:
+        response = "Maaf, sistem sedang mengalami gangguan."
 
     st.session_state.messages.append(("assistant", response))
 
