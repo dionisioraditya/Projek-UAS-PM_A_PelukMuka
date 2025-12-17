@@ -1,5 +1,5 @@
 import streamlit as st
-<<<<<<< HEAD
+
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from peft import PeftModel
@@ -11,7 +11,7 @@ BASE_MODEL = "unsloth/gemma-2-2b-it"
 ADAPTER_REPO = "diordty/gemma2b-lora-pmb-uajy"
 
 st.set_page_config(page_title="Chatbot PMB UAJY (LoRA)", page_icon="🤖", layout="centered")
-=======
+
 from dataclasses import dataclass
 from typing import Optional
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
@@ -83,8 +83,6 @@ class LLMClientHF:
                 txt = txt[len(prompt):]
             gens.append(txt.strip())
         return gens
-
->>>>>>> 768e55035e9f945282475e96ed2bd62604528371
 
 
 @st.cache_resource
