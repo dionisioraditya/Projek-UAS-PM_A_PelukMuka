@@ -1,0 +1,2780 @@
+[
+  {
+    "category": "S1",
+    "instruction": "Jawablah pertanyaan berikut berdasarkan informasi resmi PMB Universitas Atma Jaya Yogyakarta.",
+    "input": "Siapa saja yang dapat mendaftar Program Sarjana (S1) di Universitas Atma Jaya Yogyakarta melalui Program Nilai Ijazah?",
+    "output": "Program Nilai Ijazah terbuka bagi siswa SMA/SMK yang telah menyelesaikan studi (Lulusan tahun 2026 dan sebelumnya) yang penerimaannya didasarkan pada nilai ijazah."
+  },
+  {
+    "category": "S1",
+    "instruction": "Kamu adalah asisten informasi resmi PMB UAJY.",
+    "input": "Apa itu Program Nilai Ijazah Gap Year pada PMB S1 UAJY?",
+    "output": "Program Nilai Ijazah Gap Year merupakan jalur penerimaan mahasiswa baru tanpa tes yang seleksinya didasarkan pada nilai ijazah SMA atau SMK yang diraih calon mahasiswa saat di bangku sekolah."
+  },
+  {
+    "category": "S1",
+    "instruction": "Berikan penjelasan singkat dan jelas kepada calon mahasiswa.",
+    "input": "Berapa subsidi SPU yang diberikan jika diterima melalui Program Nilai Ijazah?",
+    "output": "Calon mahasiswa yang diterima melalui Program Nilai Ijazah akan mendapat subsidi Sumbangan Pengembangan Universitas (SPU) sebesar Rp1.000.000,- (Satu juta rupiah)."
+  },
+  {
+    "category": "S1",
+    "instruction": "Jawablah pertanyaan calon mahasiswa dengan bahasa formal dan informatif.",
+    "input": "Berapa biaya pendaftaran untuk Program Nilai Ijazah S1 UAJY?",
+    "output": "Biaya pendaftaran untuk Program Nilai Ijazah adalah sejumlah Rp300.000, - (Tiga ratus ribu rupiah)."
+  },
+  {
+    "category": "S1",
+    "instruction": "Kamu bertugas menjelaskan jadwal penting PMB secara ringkas.",
+    "input": "Mata pelajaran apa saja yang nilai kelulusannya dilihat untuk seleksi Program Nilai Ijazah?",
+    "output": "Nilai kelulusan SMA yang dilihat adalah untuk mata pelajaran Bahasa Indonesia, Matematika Umum, dan Bahasa Inggris."
+  },
+  {
+    "category": "S1",
+    "instruction": "Jawablah pertanyaan berikut berdasarkan informasi resmi PMB Universitas Atma Jaya Yogyakarta.",
+    "input": "Apakah lulusan SMA jurusan IPA dapat memilih semua program studi di Program Nilai Ijazah?",
+    "output": "Ya, pendaftar dari jurusan SMA IPA atau Kurikulum Merdeka Belajar Rumpun IPA bisa memilih pada semua Program Studi yang tersedia."
+  },
+  {
+    "category": "S1",
+    "instruction": "Kamu adalah asisten informasi resmi PMB UAJY.",
+    "input": "Apakah lulusan SMA jurusan IPS memiliki batasan dalam memilih program studi di Program Nilai Ijazah?",
+    "output": "Ya, pendaftar dari jurusan SMA IPS tidak bisa memilih Program Studi Teknik Sipil, Teknik Industri, Informatika, Biologi, dan Teknologi Pangan."
+  },
+  {
+    "category": "S1",
+    "instruction": "Jawablah pertanyaan berikut berdasarkan informasi resmi PMB Universitas Atma Jaya Yogyakarta.",
+    "input": "Program studi apa saja yang tidak bisa dipilih oleh lulusan SMA Bahasa di Program Nilai Ijazah?",
+    "output": "Lulusan SMA Bahasa tidak bisa memilih Program Studi Arsitektur, Teknik Sipil, Teknik Industri, Informatika, Biologi, Teknologi Pangan, dan Sistem Informasi."
+  },
+  {
+    "category": "S1",
+    "instruction": "Berikan penjelasan singkat dan jelas kepada calon mahasiswa.",
+    "input": "Bagaimana ketentuan pemilihan program studi bagi lulusan SMK di Program Nilai Ijazah?",
+    "output": "Pendaftar dari SMK hanya diperkenankan mendaftar pada program studi yang sesuai dengan jurusan mereka di SMK. Silakan konfirmasi kesesuaian jurusan ke nomor WA layanan PMB."
+  },
+  {
+    "category": "S1",
+    "instruction": "Kamu bertugas menjelaskan jadwal penting PMB secara ringkas.",
+    "input": "Kapan jadwal pendaftaran untuk Program Nilai Ijazah dilaksanakan?",
+    "output": "Pendaftaran Program Nilai Ijazah dibuka mulai tanggal 15 Desember 2025 sampai dengan 11 Januari 2026."
+  },
+  {
+    "category": "S1",
+    "instruction": "Jawablah pertanyaan calon mahasiswa dengan bahasa formal dan informatif.",
+    "input": "Kapan pengumuman hasil seleksi Program Nilai Ijazah dirilis?",
+    "output": "Pengumuman hasil seleksi Program Nilai Ijazah dijadwalkan pada tanggal 16 Januari 2026."
+  },
+  {
+    "category": "S1",
+    "instruction": "Berdasarkan dokumen pedoman PMB UAJY, berikan jawaban yang tepat.",
+    "input": "Kapan periode pembayaran jaminan bagi peserta yang lolos Program Nilai Ijazah?",
+    "output": "Pembayaran jaminan dapat dilakukan mulai tanggal 16 Januari hingga 6 Februari 2026."
+  },
+  {
+    "category": "S1",
+    "instruction": "Sebagai admin PMB UAJY, jelaskan informasi berikut ini kepada pendaftar.",
+    "input": "Kapan jadwal registrasi ulang bagi calon mahasiswa Program Nilai Ijazah?",
+    "output": "Jadwal registrasi untuk Program Nilai Ijazah adalah dari tanggal 16 Januari sampai 8 Februari 2026."
+  },
+  {
+    "category": "S1",
+    "instruction": "Jawablah pertanyaan berikut berdasarkan informasi resmi PMB Universitas Atma Jaya Yogyakarta.",
+    "input": "Kapan jadwal pembayaran angsuran pertama untuk Program Nilai Ijazah?",
+    "output": "Pembayaran angsuran pertama dijadwalkan pada tanggal 11 - 29 Mei 2026."
+  },
+  {
+    "category": "S1",
+    "instruction": "Kamu adalah asisten informasi resmi PMB UAJY.",
+    "input": "Sampai kapan batas waktu melengkapi berkas registrasi atau unggah ijazah untuk Program Nilai Ijazah?",
+    "output": "Batas waktu melengkapi berkas registrasi dan unggah ijazah adalah tanggal 11 - 29 Mei 2026."
+  },
+  {
+    "category": "S1",
+    "instruction": "Berikan penjelasan singkat dan jelas kepada calon mahasiswa.",
+    "input": "Apa dasar seleksi untuk Program Rapor Kelas X-XI di UAJY?",
+    "output": "Seleksi penerimaan Program Rapor Kelas X-XI didasarkan pada nilai rapor kelas X dan XI yang diperoleh calon mahasiswa saat masa studi SMA atau SMK."
+  },
+  {
+    "category": "S1",
+    "instruction": "Jawablah pertanyaan calon mahasiswa dengan bahasa formal dan informatif.",
+    "input": "Berapa besar subsidi SPU untuk Program Rapor Kelas X-XI?",
+    "output": "Calon mahasiswa yang diterima di Program Rapor Kelas X-XI akan mendapatkan subsidi SPU sebesar Rp1.000.000,00."
+  },
+  {
+    "category": "S1",
+    "instruction": "Kamu bertugas menjelaskan jadwal penting PMB secara ringkas.",
+    "input": "Siapa target peserta untuk Program Rapor Kelas X-XI?",
+    "output": "Program ini terbuka untuk siswa SMA/SMK lulusan tahun 2026 yang saat ini sedang duduk di kelas XII."
+  },
+  {
+    "category": "S1",
+    "instruction": "Berdasarkan dokumen pedoman PMB UAJY, berikan jawaban yang tepat.",
+    "input": "Mata pelajaran apa saja di rapor yang digunakan untuk seleksi Program Rapor Kelas X-XI?",
+    "output": "Mata pelajaran yang dinilai adalah Bahasa Indonesia, Matematika Umum, dan Bahasa Inggris dari kelas X dan XI."
+  },
+  {
+    "category": "S1",
+    "instruction": "Jawablah pertanyaan berikut berdasarkan informasi resmi PMB Universitas Atma Jaya Yogyakarta.",
+    "input": "Kapan periode pendaftaran Program Rapor Kelas X-XI?",
+    "output": "Pendaftaran Program Rapor Kelas X-XI berlangsung dari 15 Desember 2025 hingga 11 Januari 2026."
+  },
+  {
+    "category": "S1",
+    "instruction": "Kamu adalah asisten informasi resmi PMB UAJY.",
+    "input": "Kapan hasil seleksi Program Rapor Kelas X-XI diumumkan?",
+    "output": "Pengumuman hasil seleksi dijadwalkan pada tanggal 16 Januari 2026."
+  },
+  {
+    "category": "S1",
+    "instruction": "Berikan penjelasan singkat dan jelas kepada calon mahasiswa.",
+    "input": "Apa keuntungan finansial yang didapat dari Program Unggulan UAJY?",
+    "output": "Mahasiswa yang diterima melalui Program Unggulan akan mendapatkan subsidi Sumbangan Pengembangan Universitas (SPU) sebesar Rp3.000.000,00."
+  },
+  {
+    "category": "S1",
+    "instruction": "Jawablah pertanyaan calon mahasiswa dengan bahasa formal dan informatif.",
+    "input": "Bagaimana jika seorang calon mahasiswa tidak lolos seleksi Program Unggulan?",
+    "output": "Jika tidak lolos seleksi Program Unggulan, calon mahasiswa tersebut akan secara otomatis diikutkan dalam seleksi pada Program Rapor Kelas X-XI."
+  },
+  {
+    "category": "S1",
+    "instruction": "Kamu bertugas menjelaskan jadwal penting PMB secara ringkas.",
+    "input": "Berapa biaya pendaftaran untuk mengikuti Program Unggulan?",
+    "output": "Biaya pendaftaran untuk Program Unggulan adalah Rp300.000,-."
+  },
+  {
+    "category": "S1",
+    "instruction": "Sebagai admin PMB UAJY, jelaskan informasi berikut ini kepada pendaftar.",
+    "input": "Siapa yang berhak mendaftar di Program Unggulan?",
+    "output": "Program Unggulan terbuka bagi siswa SMA/SMK lulusan tahun 2026 yang saat ini duduk di kelas XII."
+  },
+  {
+    "category": "S1",
+    "instruction": "Jawablah pertanyaan berikut berdasarkan informasi resmi PMB Universitas Atma Jaya Yogyakarta.",
+    "input": "Apa yang dimaksud dengan Program CBT On Campus?",
+    "output": "Program CBT On Campus adalah jalur penerimaan mahasiswa baru melalui seleksi ujian berbasis komputer yang dilaksanakan secara langsung (onsite) di kampus."
+  },
+  {
+    "category": "S1",
+    "instruction": "Kamu adalah asisten informasi resmi PMB UAJY.",
+    "input": "Materi apa saja yang diujikan dalam tes CBT On Campus?",
+    "output": "Materi ujian mencakup Tes Kemampuan Belajar (kemampuan verbal, penalaran, kuantitatif) dan tes Bahasa Inggris."
+  },
+  {
+    "category": "S1",
+    "instruction": "Berikan penjelasan singkat dan jelas kepada calon mahasiswa.",
+    "input": "Kapan calon mahasiswa akan menerima informasi detail mengenai tes CBT On Campus?",
+    "output": "Calon mahasiswa akan menerima email berisi informasi tes dan akun login paling lambat 1 hari sebelum tanggal tes dilaksanakan."
+  },
+  {
+    "category": "S1",
+    "instruction": "Jawablah pertanyaan calon mahasiswa dengan bahasa formal dan informatif.",
+    "input": "Apakah peserta yang gagal di CBT On Campus diperbolehkan mendaftar kembali?",
+    "output": "Ya, calon mahasiswa yang tidak diterima melalui seleksi CBT On Campus dapat mendaftar dan mengikuti tes lagi pada periode berikutnya."
+  },
+  {
+    "category": "S1",
+    "instruction": "Berdasarkan dokumen pedoman PMB UAJY, berikan jawaban yang tepat.",
+    "input": "Apa syarat tambahan bagi pendaftar kelas internasional di CBT On Campus?",
+    "output": "Pendaftar kelas internasional wajib melampirkan sertifikat TOEFL. Jika tidak memilikinya, mereka harus mengikuti English Proficiency Test (EPT) yang diselenggarakan oleh KPBB-UAJY."
+  },
+  {
+    "category": "S1",
+    "instruction": "Kamu bertugas menjelaskan jadwal penting PMB secara ringkas.",
+    "input": "Kapan pendaftaran periode CBT On Campus dibuka?",
+    "output": "Pendaftaran CBT On Campus dibuka mulai tanggal 14 November hingga 18 Desember 2025."
+  },
+  {
+    "category": "S1",
+    "instruction": "Sebagai admin PMB UAJY, jelaskan informasi berikut ini kepada pendaftar.",
+    "input": "Kapan pelaksanaan tes onsite untuk CBT On Campus periode ini?",
+    "output": "Tes onsite akan dilaksanakan pada hari Sabtu, 20 Desember 2025, Sesi 1 pukul 08.30 WIB."
+  },
+  {
+    "category": "S1",
+    "instruction": "Jawablah pertanyaan berikut berdasarkan informasi resmi PMB Universitas Atma Jaya Yogyakarta.",
+    "input": "Kapan pengumuman hasil seleksi CBT On Campus?",
+    "output": "Hasil seleksi CBT On Campus akan diumumkan pada tanggal 24 Desember 2025."
+  },
+  {
+    "category": "S1",
+    "instruction": "Jawablah pertanyaan berikut berdasarkan informasi resmi PMB Universitas Atma Jaya Yogyakarta.",
+    "input": "Apa itu Program CBT Online di UAJY?",
+    "output": "CBT Online adalah program penerimaan mahasiswa baru dengan seleksi ujian berbasis komputer yang dilakukan secara daring (online) dari lokasi masing-masing peserta."
+  },
+  {
+    "category": "S1",
+    "instruction": "Kamu adalah asisten informasi resmi PMB UAJY.",
+    "input": "Sebutkan spesifikasi sistem operasi minimal untuk mengikuti CBT Online.",
+    "output": "Sistem operasi yang didukung untuk CBT Online adalah Windows 7, 8, atau 10."
+  },
+  {
+    "category": "S1",
+    "instruction": "Berikan penjelasan singkat dan jelas kepada calon mahasiswa.",
+    "input": "Browser apa yang direkomendasikan untuk mengakses tes CBT Online?",
+    "output": "Disarankan menggunakan Mozilla Firefox versi 60.0 ke atas atau Google Chrome versi 77.0 ke atas."
+  },
+  {
+    "category": "S1",
+    "instruction": "Jawablah pertanyaan calon mahasiswa dengan bahasa formal dan informatif.",
+    "input": "Apakah diperbolehkan menggunakan tablet atau iPad untuk ujian CBT Online?",
+    "output": "Tidak disarankan; sebaiknya menggunakan laptop atau komputer desktop sesuai spesifikasi yang ditentukan."
+  },
+  {
+    "category": "S1",
+    "instruction": "Berdasarkan dokumen pedoman PMB UAJY, berikan jawaban yang tepat.",
+    "input": "Berapa kecepatan koneksi internet minimal yang diperlukan untuk kelancaran CBT Online?",
+    "output": "Dibutuhkan koneksi internet yang stabil dengan kecepatan minimal 10 Mbps."
+  },
+  {
+    "category": "S1",
+    "instruction": "Kamu bertugas menjelaskan jadwal penting PMB secara ringkas.",
+    "input": "Kapan Technical Meeting untuk CBT Online dilaksanakan?",
+    "output": "Technical Meeting dilaksanakan melalui Zoom pada pukul 08.00 WIB sebelum sesi ujian dimulai."
+  },
+  {
+    "category": "S1",
+    "instruction": "Sebagai admin PMB UAJY, jelaskan informasi berikut ini kepada pendaftar.",
+    "input": "Berapa lama waktu tunggu pengumuman hasil tes CBT Online?",
+    "output": "Pengumuman hasil tes akan keluar sekitar 3 sampai 5 hari setelah tes dilaksanakan."
+  },
+  {
+    "category": "S1",
+    "instruction": "Jawablah pertanyaan berikut berdasarkan informasi resmi PMB Universitas Atma Jaya Yogyakarta.",
+    "input": "Apa fasilitas beasiswa yang diberikan melalui Beasiswa Prestasi Akademik (BPA)?",
+    "output": "Penerima BPA akan mendapatkan beasiswa berupa keringanan 50% Sumbangan Pengembangan Universitas (SPU) dan 50% SPP Tetap selama 4 tahun (8 semester) berturut-turut."
+  },
+  {
+    "category": "S1",
+    "instruction": "Kamu adalah asisten informasi resmi PMB UAJY.",
+    "input": "Apa syarat peringkat atau ranking di sekolah untuk mendaftar BPA?",
+    "output": "Pendaftar harus menempati maksimal ranking 10 di kelasnya selama kelas X dan XI, dibuktikan dengan surat keterangan ranking dari sekolah."
+  },
+  {
+    "category": "S1",
+    "instruction": "Berikan penjelasan singkat dan jelas kepada calon mahasiswa.",
+    "input": "Kapan periode pendaftaran untuk Beasiswa Prestasi Akademik?",
+    "output": "Pendaftaran BPA dibuka mulai 29 September 2025 hingga 4 Januari 2026."
+  },
+  {
+    "category": "S1",
+    "instruction": "Jawablah pertanyaan calon mahasiswa dengan bahasa formal dan informatif.",
+    "input": "Kapan tahap wawancara untuk seleksi BPA dilaksanakan?",
+    "output": "Seleksi wawancara untuk BPA dijadwalkan berlangsung dari tanggal 24 Januari hingga 4 Februari 2026."
+  },
+  {
+    "category": "S1",
+    "instruction": "Berdasarkan dokumen pedoman PMB UAJY, berikan jawaban yang tepat.",
+    "input": "Apa syarat tulisan esai yang harus dibuat oleh pendaftar BPA?",
+    "output": "Pendaftar wajib membuat tulisan singkat maksimal 1500 karakter tentang cita-cita terkait program studi yang dipilih. Tulisan dalam Bahasa Inggris untuk program internasional, dan Bahasa Indonesia untuk program reguler."
+  },
+  {
+    "category": "S1",
+    "instruction": "Jawablah pertanyaan berikut berdasarkan informasi resmi PMB Universitas Atma Jaya Yogyakarta.",
+    "input": "Apa saja komponen biaya yang dibebaskan dalam Program Seleksi Siswa Berprestasi (PSSB)?",
+    "output": "Program PSSB memberikan beasiswa penuh berupa Bebas SPU, Bebas SPP Tetap, dan Bebas SPP Variabel selama 4 tahun, serta Bebas Biaya Pendaftaran."
+  },
+  {
+    "category": "S1",
+    "instruction": "Kamu adalah asisten informasi resmi PMB UAJY.",
+    "input": "Dokumen apa saja yang diperlukan untuk membuktikan kondisi ekonomi pada pendaftaran PSSB?",
+    "output": "Diperlukan Surat Keterangan Tidak Mampu (SKTM) dari pemerintah setempat serta slip gaji atau surat keterangan penghasilan orang tua yang disahkan kelurahan/instansi."
+  },
+  {
+    "category": "S1",
+    "instruction": "Berikan penjelasan singkat dan jelas kepada calon mahasiswa.",
+    "input": "Apakah Program Seleksi Siswa Berprestasi (PSSB) berlaku untuk Program Internasional?",
+    "output": "Tidak, PSSB terbuka untuk semua program studi kecuali Program Internasional."
+  },
+  {
+    "category": "S1",
+    "instruction": "Jawablah pertanyaan calon mahasiswa dengan bahasa formal dan informatif.",
+    "input": "Apa konsekuensi jika data yang dikirimkan pendaftar PSSB ternyata tidak sesuai fakta?",
+    "output": "Apabila di kemudian hari ditemukan ketidaksesuaian data dangan kenyataan, maka beasiswa akan dicabut."
+  },
+  {
+    "category": "S1",
+    "instruction": "Kamu bertugas menjelaskan jadwal penting PMB secara ringkas.",
+    "input": "Sampai kapan pendaftaran PSSB dibuka?",
+    "output": "Pendaftaran PSSB dibuka cukup panjang, mulai 1 Oktober 2025 hingga 22 Februari 2026."
+  },
+  {
+    "category": "S1",
+    "instruction": "Jawablah pertanyaan berikut berdasarkan informasi resmi PMB Universitas Atma Jaya Yogyakarta.",
+    "input": "Apa keuntungan yang ditawarkan oleh Beasiswa Program Internasional (BPI)?",
+    "output": "BPI menawarkan beasiswa 50% untuk SPU dan SPP Tetap selama 4 tahun, serta pembebasan biaya pendaftaran."
+  },
+  {
+    "category": "S1",
+    "instruction": "Kamu adalah asisten informasi resmi PMB UAJY.",
+    "input": "Bagaimana ketentuan sertifikat bahasa Inggris untuk pendaftar BPI?",
+    "output": "Pendaftar wajib memindai dan mengunggah sertifikat TOEFL. Jika tidak memilikinya, akan dilakukan tes EPT Online sebagai pengganti."
+  },
+  {
+    "category": "S1",
+    "instruction": "Berikan penjelasan singkat dan jelas kepada calon mahasiswa.",
+    "input": "Program studi internasional apa saja yang bisa dipilih oleh lulusan SMA jurusan IPS/Bahasa?",
+    "output": "Lulusan IPS dan Bahasa hanya dapat mendaftar pada Program Internasional untuk prodi Manajemen, Akuntansi, Ilmu Komunikasi, dan Hukum."
+  },
+  {
+    "category": "S2",
+    "instruction": "Jawablah pertanyaan berikut berdasarkan informasi resmi PMB Universitas Atma Jaya Yogyakarta.",
+    "input": "Sebutkan dua jalur seleksi non-beasiswa untuk masuk Program S2 UAJY.",
+    "output": "Jalur seleksi non-beasiswa untuk S2 terdiri dari CBT On Campus dan CBT Online."
+  },
+  {
+    "category": "S2",
+    "instruction": "Kamu adalah asisten informasi resmi PMB UAJY.",
+    "input": "Berapa biaya pendaftaran untuk calon mahasiswa Program S2?",
+    "output": "Biaya pendaftaran untuk Program Pascasarjana (S2) adalah sebesar Rp400.000,00."
+  },
+  {
+    "category": "S2",
+    "instruction": "Jawablah pertanyaan calon mahasiswa dengan bahasa formal dan informatif.",
+    "input": "Apa saja tahapan seleksi untuk masuk Program S2?",
+    "output": "Seleksi S2 meliputi Tes Kemampuan Belajar (TKB), English Proficiency Test (EPT) bagi yang belum punya sertifikat bahasa, dan Wawancara."
+  },
+  {
+    "category": "S2",
+    "instruction": "Berikan penjelasan singkat dan jelas kepada calon mahasiswa.",
+    "input": "Berapa banyak pertanyaan esai yang harus dijawab saat mendaftar S2?",
+    "output": "Terdapat 5 pertanyaan esai mengenai motivasi, minat bakat, konsentrasi studi, harapan, dan kontribusi masa depan yang harus dijawab."
+  },
+  {
+    "category": "S2",
+    "instruction": "Kamu bertugas menjelaskan jadwal penting PMB secara ringkas.",
+    "input": "Kapan jadwal tes luring (CBT On Campus) untuk S2 dilaksanakan?",
+    "output": "Tes luring untuk S2 dijadwalkan pada tanggal 31 Januari 2026."
+  },
+  {
+    "category": "S2",
+    "instruction": "Jawablah pertanyaan berikut berdasarkan informasi resmi PMB Universitas Atma Jaya Yogyakarta.",
+    "input": "Apa fasilitas yang didapat dari Beasiswa Magister Unggul (BMU)?",
+    "output": "Penerima BMU mendapatkan pembebasan biaya SPP Tetap Pascasarjana pada semester 1 serta bebas biaya pendaftaran."
+  },
+  {
+    "category": "S2",
+    "instruction": "Kamu adalah asisten informasi resmi PMB UAJY.",
+    "input": "Apa syarat IPK minimal untuk mendaftar Beasiswa Magister Unggul?",
+    "output": "Pendaftar BMU wajib memiliki IPK minimal 3,50."
+  },
+  {
+    "category": "S2",
+    "instruction": "Berikan penjelasan singkat dan jelas kepada calon mahasiswa.",
+    "input": "Apakah ada batasan usia untuk pendaftar BMU?",
+    "output": "Ya, pendaftar BMU harus berusia maksimal 23 tahun."
+  },
+  {
+    "category": "S2",
+    "instruction": "Jawablah pertanyaan calon mahasiswa dengan bahasa formal dan informatif.",
+    "input": "Kapan batas waktu kelulusan S1 bagi pendaftar BMU?",
+    "output": "Pendaftar harus merupakan lulusan S1 tidak lebih dari 1 tahun terhitung dari waktu akhir pendaftaran."
+  },
+  {
+    "category": "S2",
+    "instruction": "Berdasarkan dokumen pedoman PMB UAJY, berikan jawaban yang tepat.",
+    "input": "Kapan tes online untuk Beasiswa Magister Unggul dilaksanakan?",
+    "output": "Tes online untuk seleksi BMU akan dilaksanakan pada tanggal 4 Februari 2026."
+  },
+  {
+    "category": "S1",
+    "instruction": "Jawablah pertanyaan berikut berdasarkan informasi resmi PMB Universitas Atma Jaya Yogyakarta.",
+    "input": "Apa situs resmi untuk melakukan pendaftaran mahasiswa baru UAJY?",
+    "output": "Pendaftaran dilakukan secara online melalui situs resmi https://pmb.uajy.ac.id/."
+  },
+  {
+    "category": "S1",
+    "instruction": "Kamu adalah asisten informasi resmi PMB UAJY.",
+    "input": "Bagaimana cara siswa SMK memastikan kesesuaian jurusan mereka dengan prodi yang dipilih?",
+    "output": "Siswa SMK dapat melakukan konfirmasi kesesuaian jurusan melalui WhatsApp di nomor 0852-9000-2222."
+  },
+  {
+    "category": "S1",
+    "instruction": "Berikan penjelasan singkat dan jelas kepada calon mahasiswa.",
+    "input": "Apa prinsip dasar penerimaan mahasiswa baru di UAJY terkait diskriminasi?",
+    "output": "UAJY menerima mahasiswa baru tanpa membedakan ras, warna kulit, suku bangsa, gender, agama, disabilitas, atau status sosial."
+  },
+  {
+    "category": "S1",
+    "instruction": "Jawablah pertanyaan calon mahasiswa dengan bahasa formal dan informatif.",
+    "input": "Kapan batas akhir pembayaran angsuran pertama untuk mayoritas program seleksi?",
+    "output": "Sebagian besar program menetapkan batas akhir pembayaran angsuran pertama di bulan Mei 2026, tepatnya tanggal 29 Mei 2026."
+  },
+  {
+    "category": "S1",
+    "instruction": "Kamu bertugas menjelaskan jadwal penting PMB secara ringkas.",
+    "input": "Berapa resolusi monitor minimal agar nyaman mengikuti CBT Online?",
+    "output": "Resolusi monitor minimal yang disarankan adalah 1366 x 768 piksel."
+  },
+  {
+    "category": "S1",
+    "instruction": "Berdasarkan dokumen pedoman PMB UAJY, berikan jawaban yang tepat.",
+    "input": "Sebutkan prosesor yang dijadikan acuan spesifikasi minimal untuk CBT Online.",
+    "output": "Spesifikasi minimal prosesor adalah setara Intel Core i3 7020u atau AMD A-9."
+  },
+  {
+    "category": "S1",
+    "instruction": "Sebagai admin PMB UAJY, jelaskan informasi berikut ini kepada pendaftar.",
+    "input": "Berapa kapasitas RAM minimal laptop untuk tes online?",
+    "output": "Laptop yang digunakan harus memiliki RAM minimal 4 GB."
+  },
+  {
+    "category": "S1",
+    "instruction": "Jawablah pertanyaan berikut berdasarkan informasi resmi PMB Universitas Atma Jaya Yogyakarta.",
+    "input": "Apakah kamera laptop diperlukan saat CBT Online?",
+    "output": "Ya, kamera laptop atau PC dengan resolusi minimal 1.3MP diperlukan untuk pengawasan via Zoom."
+  },
+  {
+    "category": "S1",
+    "instruction": "Kamu adalah asisten informasi resmi PMB UAJY.",
+    "input": "Kapan pengumuman final untuk Beasiswa Program Internasional (BPI)?",
+    "output": "Pengumuman final BPI akan disampaikan pada tanggal 6 Februari 2026."
+  },
+  {
+    "category": "S2",
+    "instruction": "Berikan penjelasan singkat dan jelas kepada calon mahasiswa.",
+    "input": "Apakah peserta seleksi S2 wajib memiliki pengalaman publikasi?",
+    "output": "Tidak wajib, namun sertifikat atau piagam publikasi jurnal/konferensi dapat diunggah sebagai dokumen pendukung jika ada."
+  },
+  {
+    "category": "S2",
+    "instruction": "Jawablah pertanyaan calon mahasiswa dengan bahasa formal dan informatif.",
+    "input": "Kapan jadwal registrasi bagi peserta yang lolos seleksi CBT Online S2?",
+    "output": "Peserta yang lolos CBT Online S2 dapat melakukan registrasi pada 23 Januari hingga 2 Februari 2026."
+  },
+  {
+    "category": "S2",
+    "instruction": "Berdasarkan dokumen pedoman PMB UAJY, berikan jawaban yang tepat.",
+    "input": "Pertanyaan esai ke-1 untuk pendaftaran S2 menanyakan tentang apa?",
+    "output": "Pertanyaan pertama menanyakan motivasi calon mahasiswa kuliah di Program Pascasarjana UAJY."
+  },
+  {
+    "category": "S2",
+    "instruction": "Kamu bertugas menjelaskan jadwal penting PMB secara ringkas.",
+    "input": "Pertanyaan esai ke-2 untuk pendaftaran S2 berkaitan dengan apa?",
+    "output": "Pertanyaan kedua menggali tentang minat dan bakat yang dimiliki calon mahasiswa untuk mendukung perkuliahan."
+  },
+  {
+    "category": "S2",
+    "instruction": "Sebagai admin PMB UAJY, jelaskan informasi berikut ini kepada pendaftar.",
+    "input": "Apa inti dari pertanyaan esai ke-5 pada formulir pendaftaran S2?",
+    "output": "Pertanyaan kelima meminta penjelasan bagaimana calon mahasiswa dan ilmu yang didapat nanti akan berkontribusi di masa depan."
+  },
+  {
+    "category": "S1",
+    "instruction": "Jawablah pertanyaan berikut berdasarkan informasi resmi PMB Universitas Atma Jaya Yogyakarta.",
+    "input": "Berapa lama durasi beasiswa SPU dan SPP Tetap pada program BPA?",
+    "output": "Beasiswa diberikan selama 4 tahun atau 8 semester berturut-turut."
+  },
+  {
+    "category": "S1",
+    "instruction": "Kamu adalah asisten informasi resmi PMB UAJY.",
+    "input": "Apakah siswa Home Schooling bisa mendaftar lewat jalur CBT On Campus?",
+    "output": "Ya, siswa Home Schooling lulusan tahun 2026 dan sebelumnya diperbolehkan mendaftar jalur CBT On Campus."
+  },
+  {
+    "category": "S1",
+    "instruction": "Berikan penjelasan singkat dan jelas kepada calon mahasiswa.",
+    "input": "Kapan batas waktu pembayaran jaminan untuk jalur CBT On Campus?",
+    "output": "Pembayaran jaminan untuk jalur ini dapat dilakukan mulai 24 Desember 2025 hingga 14 Januari 2026."
+  },
+  {
+    "category": "S1",
+    "instruction": "Jawablah pertanyaan calon mahasiswa dengan bahasa formal dan informatif.",
+    "input": "Apa yang harus dilakukan jika pendaftar Program Nilai Ijazah berasal dari sekolah Kurikulum Merdeka?",
+    "output": "Pendaftar dari Kurikulum Merdeka Belajar Rumpun IPA bisa memilih semua Program Studi."
+  },
+  {
+    "category": "S1",
+    "instruction": "Berdasarkan dokumen pedoman PMB UAJY, berikan jawaban yang tepat.",
+    "input": "Dokumen apa yang harus diunggah untuk syarat nilai rapor pada pendaftaran Program Nilai Ijazah?",
+    "output": "Peserta harus mengunggah scan transkrip nilai kelulusan SMA atau ijazah SMA yang mencantumkan nilai."
+  },
+  {
+    "category": "S2",
+    "instruction": "Kamu bertugas menjelaskan jadwal penting PMB secara ringkas.",
+    "input": "Kapan jadwal pembayaran angsuran pertama untuk Beasiswa Magister Unggul (BMU)?",
+    "output": "Pembayaran angsuran pertama BMU dijadwalkan pada tanggal 7 - 10 Februari 2026."
+  },
+  {
+    "category": "S2",
+    "instruction": "Sebagai admin PMB UAJY, jelaskan informasi berikut ini kepada pendaftar.",
+    "input": "Apakah tes wawancara S2 CBT On Campus dilakukan di hari yang sama dengan tes luring?",
+    "output": "Tidak, tes luring pada 31 Januari 2026, sedangkan wawancara pada 2-3 Februari 2026."
+  },
+  {
+    "category": "S1",
+    "instruction": "Jawablah pertanyaan berikut berdasarkan informasi resmi PMB Universitas Atma Jaya Yogyakarta.",
+    "input": "Apa singkatan dari PSSB dalam konteks beasiswa UAJY?",
+    "output": "PSSB adalah singkatan dari Program Seleksi Siswa Berprestasi."
+  },
+  {
+    "category": "S2",
+    "instruction": "Kamu adalah asisten informasi resmi PMB UAJY.",
+    "input": "Apa kepanjangan dari BMU pada program pascasarjana?",
+    "output": "BMU merupakan singkatan dari Beasiswa Magister Unggul."
+  },
+  {
+    "category": "S1",
+    "instruction": "Berikan penjelasan singkat dan jelas kepada calon mahasiswa.",
+    "input": "Selain nilai rapor, apa kriteria lain untuk lolos seleksi BPA tahap pertama?",
+    "output": "Seleksi tahap pertama BPA murni berupa penilaian berkas, belum melibatkan wawancara."
+  },
+  {
+    "category": "S1",
+    "instruction": "Jawablah pertanyaan calon mahasiswa dengan bahasa formal dan informatif.",
+    "input": "Apakah ada biaya tambahan untuk EPT yang diselenggarakan KPBB-UAJY bagi pendaftar kelas internasional?",
+    "output": "Tidak, EPT oleh KPBB-UAJY dilakukan tanpa dipungut biaya tambahan bagi pendaftar yang belum memiliki sertifikat TOEFL."
+  },
+  {
+    "category": "S2",
+    "instruction": "Berdasarkan dokumen pedoman PMB UAJY, berikan jawaban yang tepat.",
+    "input": "Apakah pendaftar S2 wajib menyertakan surat rekomendasi?",
+    "output": "Surat rekomendasi bersifat opsional (jika ada), tidak wajib."
+  },
+  {
+    "category": "S1",
+    "instruction": "Kamu bertugas menjelaskan jadwal penting PMB secara ringkas.",
+    "input": "Kapan jadwal seleksi dokumen untuk Beasiswa Prestasi Akademik?",
+    "output": "Seleksi dokumen BPA berlangsung dari tanggal 5 hingga 22 Januari 2026."
+  },
+  {
+    "category": "S1",
+    "instruction": "Sebagai admin PMB UAJY, jelaskan informasi berikut ini kepada pendaftar.",
+    "input": "Berapa prestasi minimal bidang seni/olahraga untuk mendukung pendaftaran PSSB?",
+    "output": "Minimal juara 3 tingkat propinsi."
+  },
+  {
+    "category": "S2",
+    "instruction": "Jawablah pertanyaan berikut berdasarkan informasi resmi PMB Universitas Atma Jaya Yogyakarta.",
+    "input": "Jika saya mendaftar S2 via CBT Online, kapan saya akan diwawancarai?",
+    "output": "Wawancara untuk jalur CBT Online S2 dijadwalkan pada 19-20 Januari 2026."
+  },
+  {
+    "category": "S2",
+    "instruction": "Kamu adalah asisten informasi resmi PMB UAJY.",
+    "input": "Apa saja dokumen pendukung yang disarankan untuk pendaftaran S2?",
+    "output": "Scan ijazah, transkrip nilai, sertifikat TOEFL/IELTS, dan sertifikat publikasi atau prestasi penunjang lainnya."
+  },
+  {
+    "category": "S1",
+    "instruction": "Berikan penjelasan singkat dan jelas kepada calon mahasiswa.",
+    "input": "Fasilitas SPU pada Program Rapor Kelas X-XI sebesar Rp1.000.000 itu maksudnya apa?",
+    "output": "Itu adalah subsidi atau potongan biaya Sumbangan Pengembangan Universitas, bukan biaya yang harus dibayar."
+  },
+  {
+    "category": "S1",
+    "instruction": "Jawablah pertanyaan calon mahasiswa dengan bahasa formal dan informatif.",
+    "input": "Kapan pembayaran jaminan untuk jalur CBT Online S1?",
+    "output": "Pembayaran jaminan mulai 19 Desember 2025 hingga 6 Februari 2026."
+  },
+  {
+    "category": "S1",
+    "instruction": "Berdasarkan dokumen pedoman PMB UAJY, berikan jawaban yang tepat.",
+    "input": "Apakah sistem operasi Linux disarankan untuk CBT Online?",
+    "output": "Tidak, penggunaan OS Linux tidak disarankan untuk mengikuti CBT Online."
+  },
+  {
+    "category": "S1",
+    "instruction": "Kamu bertugas menjelaskan jadwal penting PMB secara ringkas.",
+    "input": "Kapan tanggal pengumuman tahap 1 untuk PSSB?",
+    "output": "Pengumuman tahap 1 PSSB akan dirilis pada 13 Maret 2026."
+  },
+  {
+    "category": "S1",
+    "instruction": "Sebagai admin PMB UAJY, jelaskan informasi berikut ini kepada pendaftar.",
+    "input": "Kapan jadwal wawancara untuk PSSB?",
+    "output": "Wawancara PSSB akan dilaksanakan dalam rentang waktu 14 Maret hingga 8 April 2026."
+  },
+  {
+    "category": "S1",
+    "instruction": "Jawablah pertanyaan berikut berdasarkan informasi resmi PMB Universitas Atma Jaya Yogyakarta.",
+    "input": "Kapan pengumuman final PSSB?",
+    "output": "Pengumuman final PSSB dijadwalkan pada tanggal 10 April 2026."
+  },
+  {
+    "category": "S2",
+    "instruction": "Kamu adalah asisten informasi resmi PMB UAJY.",
+    "input": "Berapa lama batas waktu penyelesaian studi S1 agar bisa mendaftar BMU?",
+    "output": "Lulusan S1 tidak boleh lebih dari 1 tahun terhitung dari waktu akhir pendaftaran."
+  },
+  {
+    "category": "S1",
+    "instruction": "Berikan penjelasan singkat dan jelas kepada calon mahasiswa.",
+    "input": "Apa itu SPP Variabel yang dibebaskan pada program PSSB?",
+    "output": "SPP Variabel adalah biaya sks yang biasanya dibayarkan per semester, dan pada program PSSB biaya ini digratiskan."
+  },
+  {
+    "category": "S1",
+    "instruction": "Jawablah pertanyaan calon mahasiswa dengan bahasa formal dan informatif.",
+    "input": "Apa yang dimaksud dengan Program Tanpa Tes?",
+    "output": "Program Tanpa Tes adalah jalur seleksi yang tidak menggunakan ujian tulis atau komputer, melainkan berbasis nilai akademik rapor atau ijazah."
+  },
+  {
+    "category": "S1",
+    "instruction": "Berdasarkan dokumen pedoman PMB UAJY, berikan jawaban yang tepat.",
+    "input": "Apa saja program yang termasuk dalam kategori Program Tanpa Tes?",
+    "output": "Yang termasuk Program Tanpa Tes adalah Program Nilai Ijazah dan Program Rapor Kelas X-XI."
+  },
+  {
+    "category": "S1",
+    "instruction": "Kamu bertugas menjelaskan jadwal penting PMB secara ringkas.",
+    "input": "Kapan pembayaran angsuran pertama untuk PSSB?",
+    "output": "Pembayaran angsuran pertama untuk PSSB dimulai dari 10 April hingga 29 Mei 2026."
+  },
+  {
+    "category": "S1",
+    "instruction": "Sebagai admin PMB UAJY, jelaskan informasi berikut ini kepada pendaftar.",
+    "input": "Kapan jadwal registrasi ulang untuk PSSB?",
+    "output": "Registrasi PSSB dapat dilakukan mulai 10 April hingga 30 Mei 2025."
+  },
+  {
+    "category": "S1",
+    "instruction": "Jawablah pertanyaan berikut berdasarkan informasi resmi PMB Universitas Atma Jaya Yogyakarta.",
+    "input": "Apa perbedaan utama antara Program PSSB dan BPA?",
+    "output": "PSSB memberikan beasiswa penuh (SPU, SPP Tetap, SPP Variabel) untuk siswa ranking 5 besar dan kurang mampu, sedangkan BPA memberikan beasiswa 50% (SPU, SPP Tetap) untuk siswa ranking 10 besar berdasarkan prestasi akademik."
+  },
+  {
+    "category": "S1",
+    "instruction": "Kamu adalah asisten informasi resmi PMB UAJY.",
+    "input": "Apakah nilai rapor semester 5 (kelas XII awal) digunakan dalam seleksi Program Rapor?",
+    "output": "Tidak, seleksi hanya menggunakan nilai rapor kelas X dan XI."
+  },
+  {
+    "category": "S1",
+    "instruction": "Berikan penjelasan singkat dan jelas kepada calon mahasiswa.",
+    "input": "Apakah ada tes fisik dalam seleksi masuk UAJY?",
+    "output": "Pada informasi umum tidak disebutkan adanya tes fisik, seleksi utama berbasis akademik dan bahasa."
+  },
+  {
+    "category": "S1",
+    "instruction": "Jawablah pertanyaan calon mahasiswa dengan bahasa formal dan informatif.",
+    "input": "Bagaimana cara mengakses akun untuk tes TKB onsite?",
+    "output": "Info tes dan akun untuk tes TKB onsite akan dikirimkan melalui email kepada calon mahasiswa."
+  },
+  {
+    "category": "S1",
+    "instruction": "Berdasarkan dokumen pedoman PMB UAJY, berikan jawaban yang tepat.",
+    "input": "Berapa kali kesempatan tes yang dimiliki jika gagal di periode CBT On Campus?",
+    "output": "Tidak dibatasi secara spesifik, calon mahasiswa bisa mendaftar dan tes lagi pada periode berikutnya."
+  },
+  {
+    "category": "S2",
+    "instruction": "Kamu bertugas menjelaskan jadwal penting PMB secara ringkas.",
+    "input": "Kapan pengumuman hasil seleksi Beasiswa Magister Unggul (BMU)?",
+    "output": "Pengumuman hasil seleksi BMU adalah pada tanggal 7 Februari 2026."
+  },
+  {
+    "category": "S2",
+    "instruction": "Sebagai admin PMB UAJY, jelaskan informasi berikut ini kepada pendaftar.",
+    "input": "Dokumen apa yang harus disiapkan peserta S2 jika ingin mengajukan bukti pengalaman penelitian?",
+    "output": "Peserta dapat mengunggah bukti pengalaman penelitian, publikasi jurnal, konferensi, atau prestasi lain yang relevan."
+  },
+  {
+    "category": "S2",
+    "instruction": "Jawablah pertanyaan berikut berdasarkan informasi resmi PMB Universitas Atma Jaya Yogyakarta.",
+    "input": "Apakah program S2 UAJY menerima lulusan D4?",
+    "output": "Ya, program S2 menerima lulusan D4 yang setara dengan Sarjana."
+  },
+  {
+    "category": "S3",
+    "instruction": "Sebutkan program studi S3 yang tersedia di UAJY sesuai informasi PMB.",
+    "input": "Program Studi S3 di UAJY",
+    "output": "Program S3 yang tersedia: Prodi Arsitektur (Artificially Intelligent Neuro Architecture/AINA), Prodi Hukum (Pengembangan Keilmuan Hukum di Bidang Teknologi Digital dari Perspektif Moral), Prodi Teknik Sipil (Mengembangkan Ilmu Teknik Sipil untuk Infrastruktur dan Konstruksi Maju), dan Prodi Teknologi Informasi (Innovation in Data Science, Intelligent Informatics, IT Management)."
+  },
+  {
+    "category": "S3",
+    "instruction": "Jelaskan secara singkat fokus Prodi S3 Arsitektur di UAJY.",
+    "input": "Fokus Prodi S3 Arsitektur UAJY",
+    "output": "Prodi S3 Arsitektur UAJY berfokus pada Artificially Intelligent Neuro Architecture (AINA), yaitu pengembangan arsitektur yang beririsan dengan kecerdasan buatan dan pendekatan neuro."
+  },
+  {
+    "category": "S3",
+    "instruction": "Jelaskan secara singkat fokus Prodi S3 Hukum UAJY.",
+    "input": "Fokus Prodi S3 Hukum UAJY",
+    "output": "Prodi S3 Hukum UAJY berfokus pada pengembangan keilmuan hukum di bidang teknologi digital dari perspektif moral."
+  },
+  {
+    "category": "S3",
+    "instruction": "Jelaskan fokus Prodi S3 Teknik Sipil UAJY.",
+    "input": "Fokus Prodi S3 Teknik Sipil UAJY",
+    "output": "Prodi S3 Teknik Sipil UAJY berfokus pada pengembangan ilmu teknik sipil untuk infrastruktur dan konstruksi maju."
+  },
+  {
+    "category": "S3",
+    "instruction": "Jelaskan fokus Prodi S3 Teknologi Informasi UAJY.",
+    "input": "Fokus Prodi S3 Teknologi Informasi UAJY",
+    "output": "Prodi S3 Teknologi Informasi UAJY berfokus pada Innovation in Data Science, Intelligent Informatics, dan IT Management."
+  },
+  {
+    "category": "S3",
+    "instruction": "Tuliskan persyaratan dokumen utama untuk mendaftar S3 di UAJY.",
+    "input": "Persyaratan dokumen S3 UAJY",
+    "output": "Persyaratan dokumen utama: ijazah dan transkrip nilai yang telah dilegalisir, usulan penelitian, curriculum vitae (CV), sertifikat tes Bahasa Inggris dan TPA (jika sudah ada), serta mengikuti ujian tulis dan wawancara."
+  },
+  {
+    "category": "S3",
+    "instruction": "Buat instruksi singkat kepada calon pendaftar tentang pentingnya usulan penelitian saat mendaftar S3.",
+    "input": "Pentingnya usulan penelitian S3",
+    "output": "Saat mendaftar S3 di UAJY, calon mahasiswa wajib menyiapkan usulan penelitian yang jelas dan terstruktur karena menjadi dasar penilaian kesesuaian topik dengan fokus program studi dan ketersediaan promotor."
+  },
+  {
+    "category": "S3",
+    "instruction": "Jelaskan fungsi sertifikat tes Bahasa Inggris dan TPA pada pendaftaran S3.",
+    "input": "Fungsi sertifikat Bahasa Inggris dan TPA S3",
+    "output": "Sertifikat tes Bahasa Inggris dan TPA berfungsi untuk menunjukkan kemampuan bahasa dan kemampuan akademik calon mahasiswa S3, sehingga program studi dapat menilai kesiapan calon dalam mengikuti studi doktoral."
+  },
+  {
+    "category": "S3",
+    "instruction": "Jelaskan bentuk seleksi S3 di UAJY.",
+    "input": "Bentuk seleksi S3 UAJY",
+    "output": "Seleksi S3 di UAJY dilakukan secara daring dan mencakup Tes Kemampuan Bidang (TKB), wawancara oleh tim prodi, serta verifikasi dokumen termasuk nilai bahasa Inggris dan TPA jika sudah ada."
+  },
+  {
+    "category": "S3",
+    "instruction": "Tuliskan 3 komponen utama seleksi S3 di UAJY.",
+    "input": "Komponen seleksi S3 UAJY",
+    "output": "Tiga komponen utama seleksi S3 di UAJY adalah: 1) Tes Kemampuan Bidang (TKB) yang diselenggarakan secara daring, 2) Wawancara oleh tim dari program studi, dan 3) Penilaian berkas administrasi seperti ijazah, transkrip, dan usulan penelitian."
+  },
+  {
+    "category": "S3",
+    "instruction": "Jelaskan jadwal umum pendaftaran Program Gasal 1 S3 UAJY tahun 2025.",
+    "input": "Jadwal Prog Gasal 1 S3 UAJY 2025",
+    "output": "Untuk Prog Gasal 1 S3 UAJY, pendaftaran dibuka dari Februari 2025 sampai 8 April 2025, TKB sampai 11 April 2025, wawancara sampai 15 April 2025, pengumuman 25 April 2025, pembayaran 28 April–3 Juni 2025, dan registrasi 28 April–9 Juni 2025."
+  },
+  {
+    "category": "S3",
+    "instruction": "Tuliskan jadwal ringkas Prog Gasal 2 S3 UAJY tahun 2025.",
+    "input": "Jadwal Prog Gasal 2 S3 UAJY 2025",
+    "output": "Prog Gasal 2 S3 UAJY tahun 2025: pendaftaran 14 April 2025–1 Juli 2025, TKB sampai 4 Juli 2025, wawancara sampai 7 Juli 2025, pengumuman 10 Juli 2025, pembayaran 14 Juli–5 Agustus 2025, dan registrasi 14 Juli–8 Agustus 2025."
+  },
+  {
+    "category": "S3",
+    "instruction": "Tuliskan jadwal ringkas Prog Gasal 3 S3 UAJY tahun 2025.",
+    "input": "Jadwal Prog Gasal 3 S3 UAJY 2025",
+    "output": "Prog Gasal 3 S3 UAJY tahun 2025: pendaftaran 7 Juli 2025–29 Juli 2025, TKB sampai 1 Agustus 2025, wawancara sampai 5 Agustus 2025, pengumuman 8 Agustus 2025, pembayaran 11–22 Agustus 2025, dan registrasi 11–26 Agustus 2025."
+  },
+  {
+    "category": "S3",
+    "instruction": "Buatkan penjelasan singkat bahwa seluruh proses seleksi S3 dilakukan secara daring.",
+    "input": "Mode seleksi S3 UAJY",
+    "output": "Proses seleksi S3 di UAJY dilaksanakan secara daring, baik untuk Tes Kemampuan Bidang (TKB) maupun wawancara, sehingga calon pendaftar dapat mengikuti seleksi tanpa harus datang langsung ke kampus."
+  },
+  {
+    "category": "S3",
+    "instruction": "Jelaskan apa itu TKB dalam konteks seleksi S3 UAJY.",
+    "input": "Definisi TKB seleksi S3 UAJY",
+    "output": "TKB atau Tes Kemampuan Bidang adalah ujian tertulis yang dilaksanakan secara daring oleh tim instrumen untuk mengukur penguasaan calon mahasiswa terhadap bidang ilmu yang akan digeluti di jenjang S3."
+  },
+  {
+    "category": "S3",
+    "instruction": "Jelaskan secara singkat tahap wawancara S3 UAJY.",
+    "input": "Tahap wawancara S3 UAJY",
+    "output": "Tahap wawancara S3 UAJY dilakukan oleh tim dari program studi untuk mengevaluasi motivasi, kesiapan riset, dan kecocokan topik usulan penelitian calon mahasiswa dengan fokus keilmuan prodi."
+  },
+  {
+    "category": "S3",
+    "instruction": "Tuliskan penjelasan singkat tentang EPT yang relevan untuk pendaftar S3.",
+    "input": "EPT untuk S3 UAJY",
+    "output": "EPT (English Proficiency Test) adalah tes kemampuan bahasa Inggris yang dapat diikuti calon mahasiswa jika belum memiliki nilai TOEFL atau tes sejenis; pendaftaran EPT dapat dilakukan melalui link KPBB yang disediakan."
+  },
+  {
+    "category": "S3",
+    "instruction": "Buat instruksi singkat kepada calon pendaftar untuk mengecek link pendaftaran TKB S3.",
+    "input": "Instruksi cek link TKB S3",
+    "output": "Calon pendaftar S3 diminta mendaftar TKB melalui link yang disediakan oleh tim instrumen pada laman PMB UAJY dan memastikan jadwal TKB sesuai gelombang yang diikuti."
+  },
+  {
+    "category": "S3",
+    "instruction": "Buat instruksi singkat kepada calon pendaftar yang belum memiliki nilai TOEFL/sejenis.",
+    "input": "Instruksi bagi yang belum punya TOEFL S3",
+    "output": "Jika belum memiliki nilai TOEFL atau tes sejenis, calon pendaftar S3 dapat mengikuti EPT melalui link KPBB yang tercantum pada informasi PMB UAJY dan mengunggah hasilnya setelah tersedia."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Jelaskan secara singkat apa itu Program Pendidikan Profesi Arsitek (PPAr) UAJY.",
+    "input": "Definisi PPAr UAJY",
+    "output": "PPAr UAJY adalah Program Pendidikan Profesi Arsitek yang ditujukan bagi lulusan Sarjana Arsitektur untuk melanjutkan ke jenjang profesi arsitek dan hanya dibuka pada semester gasal."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Sebutkan periode buka PPAr UAJY berdasarkan informasi terbaru.",
+    "input": "Periode buka PPAr UAJY",
+    "output": "Program PPAr UAJY hanya dibuka pada Semester Gasal, dan untuk Tahun Akademik 2026/2027 pendaftaran diperkirakan mulai pada bulan Februari 2026."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Sebutkan siapa saja yang boleh mendaftar PPAr UAJY dari sisi asal perguruan tinggi.",
+    "input": "Asal perguruan tinggi pendaftar PPAr",
+    "output": "PPAr UAJY terbuka untuk lulusan S1 Program Studi Arsitektur UAJY lulusan tahun 2021–2026 dan lulusan S1 Program Studi Arsitektur dari luar UAJY dengan tambahan tes matrikulasi dan rekomendasi dari dosen pembimbing tugas akhir atau kaprodi."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Jelaskan rentang tahun lulusan yang diperbolehkan mendaftar PPAr UAJY.",
+    "input": "Rentang tahun lulusan PPAr UAJY",
+    "output": "PPAr UAJY menerima pendaftar lulusan S1 Arsitektur tahun 2021 sampai dengan 2026, baik dari UAJY maupun dari perguruan tinggi lain."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Sebutkan minimal IPK yang disyaratkan untuk mendaftar PPAr UAJY.",
+    "input": "Minimal IPK PPAr UAJY",
+    "output": "Minimal IPK yang disyaratkan untuk mendaftar PPAr UAJY adalah 3,00."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Jelaskan prioritas nilai mata kuliah yang dipertimbangkan untuk pendaftar PPAr UAJY.",
+    "input": "Prioritas nilai MK untuk PPAr",
+    "output": "Pendaftar PPAr UAJY diprioritaskan jika memiliki nilai mata kuliah Studio Desain semester 5 sampai 8 di atas B+."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Sebutkan dokumen yang harus diunggah saat mendaftar PPAr UAJY.",
+    "input": "Dokumen unggahan PPAr UAJY",
+    "output": "Dokumen yang harus diunggah: scan ijazah dan transkrip nilai asli, sertifikat English Proficiency Test (TOEFL/IELTS) dengan minimal skor 450/4.0, curriculum vitae, portofolio 4 karya perancangan arsitektur (dari konsep hingga pengembangan desain), dan scan sertifikat penghargaan 5 tahun terakhir (opsional)."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Jelaskan posisi EPT dalam syarat PPAr UAJY.",
+    "input": "Peran EPT pada PPAr UAJY",
+    "output": "EPT atau sertifikat kemampuan bahasa Inggris merupakan syarat yudisium PPAr UAJY; jika pendaftar belum memiliki sertifikat saat mendaftar, persyaratan tersebut dapat dipenuhi hingga 3 bulan sebelum yudisium."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Jelaskan isi minimal yang diminta dalam CV pendaftar PPAr UAJY.",
+    "input": "Isi minimal CV PPAr UAJY",
+    "output": "CV pendaftar PPAr UAJY minimal memuat: riwayat pendidikan, pengalaman kerja praktik atau praktik kerja, dan daftar penghargaan yang pernah diperoleh."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Jelaskan kriteria portofolio untuk pendaftar PPAr UAJY.",
+    "input": "Kriteria portofolio PPAr UAJY",
+    "output": "Pendaftar PPAr UAJY harus mengunggah portofolio berisi 4 karya perancangan arsitektur yang mencakup tahapan dari konsep hingga pengembangan desain."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Sebutkan tahapan seleksi penerimaan PPAr UAJY.",
+    "input": "Tahapan seleksi PPAr UAJY",
+    "output": "Tahapan seleksi PPAr UAJY meliputi: 1) seleksi berkas administrasi, 2) tes matrikulasi bagi pelamar lulusan S1 Arsitektur luar UAJY, 3) wawancara bagi yang lolos seleksi berkas, dan 4) pengumuman seleksi mahasiswa baru PPAr UAJY T.A. 2026/2027."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Tuliskan penjelasan singkat bahwa jadwal rinci pendaftaran PPAr UAJY masih menyusul.",
+    "input": "Status jadwal PPAr UAJY",
+    "output": "Pada informasi resmi, jadwal rinci pendaftaran PPAr UAJY untuk Tahun Akademik 2026/2027 masih berstatus 'menyusul' dan akan diperbarui kemudian."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Buat instruksi singkat untuk mendaftar PPAr UAJY melalui web PMB.",
+    "input": "Cara mendaftar PPAr via web",
+    "output": "Calon pendaftar PPAr UAJY diminta mengisi formulir pendaftaran secara daring melalui laman pmb.uajy.ac.id, kemudian mengunggah dokumen pendukung sesuai persyaratan yang ditentukan."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Jelaskan secara umum apa itu BRIVA dalam konteks PMB UAJY.",
+    "input": "Definisi BRIVA PMB UAJY",
+    "output": "BRIVA (BRI Virtual Account) adalah nomor virtual account yang digunakan sebagai kode pembayaran biaya pendaftaran PMB UAJY melalui berbagai kanal Bank BRI dan bank lain."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Sebutkan nominal biaya pendaftaran untuk S1, S2, dan S3 di UAJY.",
+    "input": "Biaya pendaftaran S1 S2 S3 UAJY",
+    "output": "Biaya pendaftaran: Rp 300.000 untuk pendaftaran S1, Rp 400.000 untuk pendaftaran S2, dan Rp 500.000 untuk pendaftaran S3 serta Program S1 Kedokteran."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Jelaskan kebijakan biaya pendaftaran untuk program beasiswa di PMB UAJY.",
+    "input": "Biaya pendaftaran program beasiswa UAJY",
+    "output": "Untuk seluruh program beasiswa di PMB UAJY, biaya pendaftaran dibebaskan sehingga calon pendaftar tidak perlu membayar biaya formulir."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Buat langkah-langkah ringkas pembayaran BRIVA lewat ATM BRI untuk PMB UAJY.",
+    "input": "Langkah bayar BRIVA via ATM BRI",
+    "output": "Langkah ringkas: masukkan kartu ATM BRI dan PIN, pilih 'Transaksi Lainnya', pilih 'Pembayaran', pilih 'Lainnya', pilih 'BRIVA', masukkan nomor Virtual Account/Kode Pembayaran, konfirmasi data, lalu selesaikan transaksi dan simpan struk."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Buat langkah-langkah ringkas pembayaran BRIVA lewat aplikasi BRImo.",
+    "input": "Langkah bayar BRIVA via BRImo",
+    "output": "Langkah ringkas: buka aplikasi BRImo dan login, pilih menu 'Lainnya', pilih 'BRIVA', masukkan nomor Virtual Account/Kode Pembayaran dan nominal (sesuai jenjang), konfirmasi data, masukkan PIN m-banking, lalu simpan bukti pembayaran."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Jelaskan perbedaan utama pembayaran BRIVA via ATM bank lain dibanding ATM BRI.",
+    "input": "Perbedaan bayar BRIVA ATM bank lain",
+    "output": "Saat membayar BRIVA melalui ATM bank lain, nasabah harus menggunakan menu 'Transfer antar bank', memilih Bank BRI, lalu memasukkan kode bank BRI diikuti nomor Virtual Account/Kode Pembayaran, berbeda dengan ATM BRI yang memiliki menu khusus BRIVA."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Buat langkah-langkah ringkas pembayaran BRIVA lewat teller BRI.",
+    "input": "Langkah bayar BRIVA via teller BRI",
+    "output": "Langkah ringkas: datang ke kantor cabang BRI, ambil nomor antrean, isi slip setoran tunai dengan 15 digit nomor Virtual Account/Kode Pembayaran dan nominal sesuai jenjang, lakukan pembayaran ke teller, lalu simpan copy slip setoran sebagai bukti."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Sebutkan tiga cara pembayaran BRIVA selain ATM BRI.",
+    "input": "Cara lain bayar BRIVA selain ATM BRI",
+    "output": "Tiga cara lain membayar BRIVA: melalui aplikasi BRImo, melalui mesin EDC BRI, dan melalui teller Bank BRI; selain itu dapat juga menggunakan ATM, mobile banking, atau internet banking bank lain."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Buat instruksi singkat mengenai pentingnya menyimpan bukti pembayaran BRIVA.",
+    "input": "Pentingnya bukti pembayaran BRIVA",
+    "output": "Setelah melakukan pembayaran BRIVA untuk biaya pendaftaran PMB UAJY, calon pendaftar wajib menyimpan struk atau bukti transaksi sebagai dokumen pendukung jika sewaktu-waktu diminta saat verifikasi."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Jelaskan mengapa BI Fast dan kliring tidak bisa digunakan untuk pembayaran BRIVA lewat bank lain.",
+    "input": "Alasan BI Fast/kliring tidak bisa untuk BRIVA",
+    "output": "Pembayaran BRIVA mengharuskan penggunaan fitur 'transfer antar bank' reguler dengan memilih bank tujuan BRI dan memasukkan nomor virtual account secara penuh, sehingga metode BI Fast atau kliring tidak didukung untuk jenis transaksi ini."
+  },
+  {
+    "category": "Alur",
+    "instruction": "Jelaskan langkah awal untuk mendapatkan kode akun PMB UAJY.",
+    "input": "Langkah awal dapatkan kode akun PMB UAJY",
+    "output": "Langkah awal: buka situs pmb.uajy.ac.id, pilih menu untuk mendapatkan kode akun, isi nama, alamat email, dan captcha, lalu klik 'Dapatkan Kode'; setelah itu cek email untuk melihat kode akun yang dikirim."
+  },
+  {
+    "category": "Alur",
+    "instruction": "Jelaskan hubungan antara kode akun dan pembayaran biaya pendaftaran PMB UAJY.",
+    "input": "Hubungan kode akun dan pembayaran PMB",
+    "output": "Kode akun digunakan sebagai identitas awal calon pendaftar yang kemudian dipakai untuk melakukan pembayaran biaya pendaftaran melalui BRIVA; setelah pembayaran, calon mahasiswa dapat login ke sistem PMB dengan kode akun tersebut."
+  },
+  {
+    "category": "Alur",
+    "instruction": "Buat urutan langkah setelah memiliki kode akun dan telah membayar biaya pendaftaran.",
+    "input": "Langkah setelah bayar biaya pendaftaran PMB",
+    "output": "Setelah memiliki kode akun dan membayar biaya pendaftaran, calon pendaftar login ke web PMB dengan kode akun dan password, mengisi formulir pendaftaran lengkap, memilih program studi, mengunggah dokumen persyaratan, mengecek kembali data, lalu mengirim data untuk diproses."
+  },
+  {
+    "category": "Alur",
+    "instruction": "Jelaskan apa yang terjadi setelah calon pendaftar menekan tombol 'KIRIM DATA' di web PMB UAJY.",
+    "input": "Dampak tombol 'KIRIM DATA' PMB UAJY",
+    "output": "Setelah tombol 'KIRIM DATA' ditekan dan proses berhasil, sistem PMB UAJY akan mengirim email berisi Nomor Pendaftaran dan informasi program PMB yang diikuti ke alamat email calon pendaftar."
+  },
+  {
+    "category": "Alur",
+    "instruction": "Jelaskan bagaimana cara mengecek hasil seleksi PMB UAJY.",
+    "input": "Cara cek hasil seleksi PMB UAJY",
+    "output": "Hasil seleksi PMB UAJY dapat dicek dengan login kembali ke situs PMB menggunakan kode akun dan password yang sama, kemudian melihat pengumuman hasil pada menu yang disediakan."
+  },
+  {
+    "category": "Alur",
+    "instruction": "Buat instruksi ringkas alur lengkap pendaftaran mulai dari buat akun hingga cek hasil.",
+    "input": "Alur lengkap pendaftaran PMB UAJY",
+    "output": "Alur lengkap: 1) Buat dan dapatkan kode akun melalui web PMB UAJY, 2) Lakukan pembayaran biaya pendaftaran dengan BRIVA, 3) Login menggunakan kode akun, 4) Isi dan lengkapi formulir serta unggah dokumen, 5) Kirim data dan simpan Nomor Pendaftaran, 6) Ikuti ujian/seleksi sesuai jadwal, 7) Login kembali untuk mengecek hasil seleksi."
+  },
+  {
+    "category": "Umum",
+    "instruction": "Buat penjelasan singkat yang cocok ditempatkan di brosur tentang keunggulan PMB online UAJY.",
+    "input": "Keunggulan PMB online UAJY",
+    "output": "PMB UAJY menyediakan proses pendaftaran dan seleksi yang sepenuhnya daring, mulai dari pengisian formulir, pembayaran, hingga tes, sehingga calon mahasiswa dapat mendaftar dengan mudah dari mana saja dan kapan saja selama periode pendaftaran."
+  },
+  {
+    "category": "S3",
+    "instruction": "Buat penjelasan singkat perbedaan utama antara TKB dan wawancara pada seleksi S3 UAJY.",
+    "input": "Perbedaan TKB dan wawancara S3 UAJY",
+    "output": "Pada seleksi S3 UAJY, TKB berfokus menguji kemampuan akademik dan penguasaan bidang ilmu secara tertulis, sedangkan wawancara menilai motivasi, kesiapan riset, dan kecocokan topik penelitian serta profil pribadi calon mahasiswa."
+  },
+  {
+    "category": "S3",
+    "instruction": "Tuliskan saran singkat untuk calon pendaftar tentang kapan sebaiknya mulai menyiapkan usulan penelitian S3.",
+    "input": "Kapan menyiapkan usulan penelitian S3 UAJY",
+    "output": "Calon pendaftar S3 UAJY sebaiknya mulai menyiapkan usulan penelitian beberapa bulan sebelum membuka pendaftaran, agar punya waktu cukup untuk merumuskan latar belakang, rumusan masalah, tujuan, dan metodologi secara matang."
+  },
+  {
+    "category": "S3",
+    "instruction": "Buat kalimat imbauan agar calon pendaftar memperhatikan jadwal tiap gelombang pendaftaran S3.",
+    "input": "Imbauan perhatikan jadwal gelombang S3",
+    "output": "Calon pendaftar S3 UAJY diimbau untuk membaca dengan cermat jadwal tiap gelombang pendaftaran (Prog Gasal 1, 2, dan 3), termasuk batas akhir TKB, wawancara, dan registrasi, agar tidak melewatkan tahapan seleksi."
+  },
+  {
+    "category": "S3",
+    "instruction": "Jelaskan mengapa sertifikat TPA penting bagi calon mahasiswa S3.",
+    "input": "Pentingnya sertifikat TPA untuk S3",
+    "output": "Sertifikat TPA penting bagi calon mahasiswa S3 karena membantu program studi menilai kemampuan penalaran dan potensi akademik, yang berpengaruh terhadap keberhasilan studi pada jenjang doktoral yang menuntut analisis mendalam."
+  },
+  {
+    "category": "S3",
+    "instruction": "Buat penjelasan singkat mengenai kemungkinan pengumpulan sertifikat Bahasa Inggris dan TPA setelah mendaftar.",
+    "input": "Pengumpulan sertifikat Bahasa Inggris/TPA setelah daftar S3",
+    "output": "Pada informasi S3 UAJY, sertifikat tes Bahasa Inggris dan TPA dituliskan 'jika sudah ada', sehingga calon pendaftar yang belum memilikinya saat awal pendaftaran dapat menyusulkannya sesuai ketentuan dan tenggat yang diumumkan program studi."
+  },
+  {
+    "category": "S3",
+    "instruction": "Susun saran singkat untuk calon pendaftar S3 agar mempersiapkan wawancara dengan baik.",
+    "input": "Saran persiapan wawancara S3 UAJY",
+    "output": "Untuk mempersiapkan wawancara S3 UAJY, calon pendaftar sebaiknya memahami kembali topik usulan penelitian, membaca fokus keilmuan prodi, menyiapkan alasan memilih UAJY, dan berlatih menjelaskan latar belakang akademik secara singkat dan jelas."
+  },
+  {
+    "category": "S3",
+    "instruction": "Buat kalimat untuk FAQ tentang apakah seleksi S3 UAJY bisa diikuti dari luar kota.",
+    "input": "FAQ seleksi S3 UAJY dari luar kota",
+    "output": "Karena proses seleksi S3 UAJY (TKB dan wawancara) dilaksanakan secara daring, calon pendaftar dari luar kota atau luar pulau tetap dapat mengikuti seluruh tahapan tanpa harus datang langsung ke kampus."
+  },
+  {
+    "category": "S3",
+    "instruction": "Buat penjelasan singkat tentang peran tim instrumen pada pelaksanaan TKB S3.",
+    "input": "Peran tim instrumen TKB S3",
+    "output": "Tim instrumen bertanggung jawab menyusun soal dan menyelenggarakan TKB secara daring, serta menyediakan link pendaftaran TKB yang harus diakses calon pendaftar S3 UAJY."
+  },
+  {
+    "category": "S3",
+    "instruction": "Tuliskan satu paragraf pendek yang menjelaskan alur umum seleksi S3 UAJY dari sisi akademik.",
+    "input": "Alur akademik seleksi S3 UAJY",
+    "output": "Secara akademik, calon mahasiswa S3 UAJY akan dinilai melalui TKB untuk menguji penguasaan bidang ilmu, kemudian diwawancarai tim prodi untuk menggali motivasi studi dan kelayakan topik riset, serta dievaluasi kelengkapan sertifikat bahasa Inggris dan TPA sebagai indikator kesiapan mengikuti studi doktoral."
+  },
+  {
+    "category": "S3",
+    "instruction": "Buat teks pendek yang cocok dijadikan pengumuman pembukaan pendaftaran S3 di web.",
+    "input": "Pengumuman pembukaan pendaftaran S3 UAJY (singkat)",
+    "output": "Universitas Atma Jaya Yogyakarta membuka pendaftaran Program Doktor (S3) untuk beberapa program studi terpilih. Calon pendaftar diharapkan menyiapkan ijazah dan transkrip legalisir, usulan penelitian, CV, serta mengikuti TKB dan wawancara sesuai jadwal pada laman PMB."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Susun teks ringkas untuk menjelaskan tujuan utama PPAr UAJY kepada calon mahasiswa.",
+    "input": "Tujuan utama PPAr UAJY",
+    "output": "Tujuan utama PPAr UAJY adalah mempersiapkan lulusan Sarjana Arsitektur menjadi profesional yang siap berpraktik sebagai arsitek, melalui penguatan kompetensi perancangan, etika profesi, dan pengalaman proyek yang lebih aplikatif."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Buat kalimat yang menekankan bahwa PPAr UAJY hanya buka di Semester Gasal.",
+    "input": "Penekanan jadwal buka PPAr",
+    "output": "Perlu diperhatikan bahwa Program Pendidikan Profesi Arsitek (PPAr) UAJY hanya membuka penerimaan mahasiswa baru pada Semester Gasal."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Buat instruksi kepada lulusan luar UAJY terkait kewajiban tes matrikulasi.",
+    "input": "Instruksi tes matrikulasi untuk lulusan luar UAJY",
+    "output": "Lulusan S1 Arsitektur dari luar UAJY yang mendaftar PPAr wajib mengikuti tes matrikulasi sesuai jadwal yang ditentukan, sebagai bagian dari proses seleksi untuk memastikan kesetaraan capaian pembelajaran."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Tuliskan imbauan bagi calon pendaftar PPAr untuk menyiapkan rekomendasi dari dosen pembimbing atau kaprodi.",
+    "input": "Imbauan rekomendasi dosen untuk PPAr",
+    "output": "Calon pendaftar PPAr dari luar UAJY perlu menyiapkan surat rekomendasi dari dosen pembimbing tugas akhir atau ketua program studi Sarjana Arsitektur sebagai salah satu syarat administrasi yang menunjukkan kelayakan akademik dan profesional."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Buat teks penjelasan mengenai pentingnya portofolio 4 karya arsitektur pada seleksi PPAr.",
+    "input": "Pentingnya portofolio 4 karya untuk PPAr",
+    "output": "Portofolio 4 karya perancangan arsitektur yang diminta pada seleksi PPAr penting untuk menunjukkan kemampuan konseptual, kreativitas, dan kedalaman pengembangan desain calon mahasiswa, sehingga prodi dapat menilai kesiapan memasuki tahap profesi."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Susun paragraf pendek tentang isi yang baik untuk portofolio PPAr UAJY.",
+    "input": "Isi yang baik untuk portofolio PPAr",
+    "output": "Portofolio PPAr UAJY sebaiknya memuat empat proyek yang merepresentasikan beragam skala dan tipe bangunan, masing-masing menampilkan alur berpikir dari konsep, sketsa, pengembangan massa dan ruang, hingga gambar presentasi akhir yang komunikatif."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Buat teks singkat untuk FAQ: apakah wajib punya sertifikat penghargaan untuk daftar PPAr.",
+    "input": "FAQ sertifikat penghargaan PPAr",
+    "output": "Sertifikat penghargaan tidak wajib untuk mendaftar PPAr UAJY; dokumen ini bersifat opsional dan hanya menjadi nilai tambah bila dimiliki oleh calon pendaftar."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Buat penjelasan singkat mengapa skor TOEFL/IELTS minimal 450/4.0 menjadi syarat yudisium PPAr.",
+    "input": "Alasan batas minimal TOEFL/IELTS PPAr",
+    "output": "Skor TOEFL/IELTS minimal 450/4.0 disyaratkan pada yudisium PPAr untuk memastikan lulusan memiliki kecakapan bahasa Inggris yang memadai, terutama dalam membaca referensi teknis dan berkomunikasi di lingkungan profesional yang semakin global."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Susun kalimat pengingat tenggat pemenuhan EPT sebelum yudisium PPAr.",
+    "input": "Pengingat tenggat EPT PPAr",
+    "output": "Pendaftar PPAr yang belum memiliki EPT saat mendaftar perlu memastikan skor TOEFL/IELTS minimal 450/4.0 sudah terpenuhi paling lambat tiga bulan sebelum yudisium."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Buat teks yang bisa dipakai di laman informasi, menjelaskan tahapan seleksi PPAr dalam satu paragraf.",
+    "input": "Ringkasan tahapan seleksi PPAr dalam satu paragraf",
+    "output": "Seleksi PPAr UAJY dimulai dari seleksi berkas administrasi, dilanjutkan tes matrikulasi khusus bagi lulusan S1 Arsitektur luar UAJY, kemudian wawancara bagi pelamar yang lolos seleksi berkas, dan diakhiri dengan pengumuman resmi calon mahasiswa baru PPAr UAJY."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Buat kalimat yang menjelaskan bahwa jadwal pendaftaran PPAr akan diumumkan kemudian.",
+    "input": "Kalimat jadwal PPAr menyusul",
+    "output": "Jadwal pendaftaran, wawancara, pengumuman, dan registrasi PPAr UAJY untuk tahun akademik mendatang masih dalam proses penyusunan dan akan diumumkan kemudian melalui laman resmi PMB."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Buat teks singkat untuk mengarahkan calon pendaftar PPAr agar rutin mengecek web PMB.",
+    "input": "Imbauan rutin cek web PMB untuk PPAr",
+    "output": "Calon pendaftar PPAr disarankan untuk rutin mengecek laman pmb.uajy.ac.id agar tidak ketinggalan pembaruan jadwal, persyaratan, dan pengumuman lain yang berkaitan dengan proses pendaftaran."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Buat langkah-langkah ringkas pembayaran BRIVA lewat mesin EDC BRI.",
+    "input": "Langkah bayar BRIVA via EDC BRI",
+    "output": "Langkah ringkas: pilih menu 'mini ATM' pada EDC, pilih 'Pembayaran', pilih 'BRIVA', gesek kartu ATM, masukkan nomor Virtual Account/Kode Pembayaran, masukkan PIN, lalu konfirmasi data dan simpan bukti transaksi."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Susun instruksi detail pembayaran BRIVA melalui ATM bank lain.",
+    "input": "Instruksi detail bayar BRIVA via ATM bank lain",
+    "output": "Masukkan kartu ke ATM bank lain dan PIN, pilih 'Transaksi lainnya', pilih 'Transfer', pilih 'Transfer antar bank', pilih bank tujuan BRI, masukkan kode bank BRI yang diikuti nomor Virtual Account/Kode Pembayaran, masukkan nominal biaya pendaftaran sesuai jenjang, konfirmasi data, lalu selesaikan transaksi dan simpan struk."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Buat langkah-langkah ringkas pembayaran BRIVA lewat mobile banking bank lain.",
+    "input": "Langkah bayar BRIVA via mobile banking bank lain",
+    "output": "Buka aplikasi mobile banking bank lain, pilih menu 'Transfer antar bank', pilih bank tujuan BRI, isi nomor rekening dengan Virtual Account/Kode Pembayaran, masukkan nominal biaya pendaftaran sesuai ketentuan, lanjutkan proses pembayaran sesuai prosedur bank dan simpan bukti transaksi."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Buat langkah-langkah ringkas pembayaran BRIVA lewat internet banking bank lain.",
+    "input": "Langkah bayar BRIVA via internet banking bank lain",
+    "output": "Login ke internet banking, pilih menu 'Transfer antar bank', pilih bank tujuan BRI, isi rekening tujuan dengan nomor Virtual Account/Kode Pembayaran, masukkan nominal biaya pendaftaran, konfirmasi detail transaksi, lalu selesaikan pembayaran dan unduh atau simpan bukti transfer."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Buat kalimat untuk FAQ tentang besarnya biaya pendaftaran S3 dan S1 Kedokteran.",
+    "input": "FAQ biaya pendaftaran S3 dan S1 Kedokteran",
+    "output": "Biaya pendaftaran untuk Program Doktor (S3) dan Program S1 Kedokteran di PMB UAJY adalah sebesar Rp 500.000."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Buat kalimat untuk FAQ tentang apakah peserta beasiswa perlu membayar biaya pendaftaran.",
+    "input": "FAQ biaya pendaftaran untuk jalur beasiswa",
+    "output": "Peserta yang mendaftar melalui program beasiswa di PMB UAJY dibebaskan dari biaya pendaftaran, sehingga tidak perlu melakukan pembayaran formulir."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Susun teks singkat yang menjelaskan bahwa nominal harus diisi manual saat bayar lewat BRImo.",
+    "input": "Nominal manual BRIVA di BRImo",
+    "output": "Saat membayar BRIVA melalui aplikasi BRImo, pengguna perlu memasukkan nominal pembayaran secara manual sesuai ketentuan biaya pendaftaran untuk S1, S2, atau S3 yang tertera pada informasi PMB UAJY."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Buat penjelasan mengapa penting memastikan nomor virtual account benar sebelum konfirmasi pembayaran.",
+    "input": "Pentingnya cek nomor virtual account sebelum bayar",
+    "output": "Memastikan nomor virtual account benar sebelum konfirmasi pembayaran penting agar dana terkirim ke akun pendaftaran yang sesuai, sehingga status pembayaran pendaftar tercatat dengan tepat di sistem PMB UAJY."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Buat teks peringatan singkat terkait kesalahan memasukkan nominal pembayaran biaya pendaftaran.",
+    "input": "Peringatan kesalahan nominal pembayaran",
+    "output": "Kesalahan memasukkan nominal pembayaran, misalnya tidak sesuai tarif biaya pendaftaran yang ditetapkan, dapat mengakibatkan transaksi tidak terbaca dengan benar oleh sistem PMB; karena itu calon pendaftar wajib mencocokkan besaran yang diinput dengan informasi resmi."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Susun kalimat yang mengingatkan bahwa pembayaran hanya bisa menggunakan menu transfer antar bank biasa, bukan BI Fast.",
+    "input": "Pengingat tidak pakai BI Fast untuk BRIVA",
+    "output": "Untuk pembayaran BRIVA dari bank lain, calon pendaftar harus menggunakan menu 'Transfer antar bank' reguler dan tidak dapat menggunakan BI Fast atau kliring."
+  },
+  {
+    "category": "Alur",
+    "instruction": "Buat penjelasan singkat mengenai peran email dalam proses pendaftaran PMB UAJY.",
+    "input": "Peran email pada PMB UAJY",
+    "output": "Email digunakan untuk menerima kode akun saat pendaftaran awal dan juga untuk menerima notifikasi penting seperti Nomor Pendaftaran dan informasi program PMB yang diikuti."
+  },
+  {
+    "category": "Alur",
+    "instruction": "Buat instruksi singkat agar calon pendaftar memastikan alamat email yang dimasukkan aktif.",
+    "input": "Instruksi pastikan email aktif PMB UAJY",
+    "output": "Calon pendaftar harus memastikan alamat email yang diisikan saat meminta kode akun PMB UAJY adalah email aktif yang rutin diakses, karena semua informasi penting akan dikirim ke alamat tersebut."
+  },
+  {
+    "category": "Alur",
+    "instruction": "Susun kalimat untuk menjelaskan fungsi kode akun dalam proses PMB.",
+    "input": "Fungsi kode akun PMB UAJY",
+    "output": "Kode akun berfungsi sebagai identitas awal calon pendaftar yang digunakan untuk login ke sistem PMB, melakukan pembayaran biaya pendaftaran, mengisi formulir, dan mengecek hasil seleksi."
+  },
+  {
+    "category": "Alur",
+    "instruction": "Buat ringkasan peran tombol 'KIRIM DATA' di akhir pengisian formulir PMB.",
+    "input": "Peran tombol KIRIM DATA PMB",
+    "output": "Tombol 'KIRIM DATA' menandai bahwa seluruh data pendaftaran telah final dan dikirim ke sistem PMB untuk diproses, sehingga setelah menekan tombol ini pendaftar harus memastikan tidak ada kesalahan isian penting."
+  },
+  {
+    "category": "Alur",
+    "instruction": "Buat teks singkat yang menjelaskan bahwa Nomor Pendaftaran dikirim setelah data berhasil terkirim.",
+    "input": "Kapan Nomor Pendaftaran dikirim",
+    "output": "Nomor Pendaftaran akan dikirim ke email calon pendaftar setelah seluruh data berhasil dikirim melalui tombol 'KIRIM DATA' dan tercatat di sistem PMB UAJY."
+  },
+  {
+    "category": "Alur",
+    "instruction": "Susun arahan singkat untuk menyimpan Nomor Pendaftaran.",
+    "input": "Arahan menyimpan Nomor Pendaftaran PMB",
+    "output": "Calon pendaftar disarankan menyimpan Nomor Pendaftaran yang diterima melalui email, misalnya dengan mencatat atau melakukan tangkapan layar, karena nomor tersebut dibutuhkan untuk keperluan administrasi dan konfirmasi di kemudian hari."
+  },
+  {
+    "category": "Alur",
+    "instruction": "Buat teks untuk FAQ tentang cara mengecek hasil seleksi dengan akun PMB.",
+    "input": "FAQ cara cek hasil seleksi dengan akun PMB",
+    "output": "Untuk mengecek hasil seleksi, login kembali ke situs PMB UAJY dengan kode akun dan password yang sama saat mendaftar, lalu buka menu hasil seleksi atau pengumuman sesuai program yang diikuti."
+  },
+  {
+    "category": "Alur",
+    "instruction": "Susun kalimat yang menekankan pentingnya mengunggah dokumen persyaratan dengan benar.",
+    "input": "Pentingnya unggah dokumen dengan benar PMB",
+    "output": "Mengunggah dokumen persyaratan dengan benar dan jelas sangat penting karena berkas tersebut menjadi dasar verifikasi administrasi; kesalahan unggah dapat menghambat proses seleksi."
+  },
+  {
+    "category": "Alur",
+    "instruction": "Buat penjelasan singkat bahwa pengisian formulir dilakukan sepenuhnya online.",
+    "input": "Pengisian formulir online PMB UAJY",
+    "output": "Formulir pendaftaran PMB UAJY diisi sepenuhnya secara online melalui situs resmi, sehingga calon pendaftar tidak perlu mengirimkan berkas fisik ke kampus untuk tahap awal."
+  },
+  {
+    "category": "Alur",
+    "instruction": "Susun teks instruksi agar calon pendaftar mengecek ulang data sebelum menekan 'KIRIM DATA'.",
+    "input": "Instruksi cek ulang data sebelum KIRIM DATA",
+    "output": "Sebelum menekan tombol 'KIRIM DATA', calon pendaftar wajib mengecek ulang seluruh isian, termasuk data pribadi, pilihan program studi, dan unggahan dokumen, untuk memastikan tidak ada kesalahan yang berpotensi mengganggu proses seleksi."
+  },
+  {
+    "category": "Alur",
+    "instruction": "Buat paragraf pendek yang merangkum keseluruhan alur PMB UAJY bagi pendaftar baru.",
+    "input": "Ringkasan keseluruhan alur PMB UAJY",
+    "output": "Alur PMB UAJY dimulai dari pembuatan kode akun melalui web, dilanjutkan pembayaran biaya pendaftaran via BRIVA, kemudian login untuk mengisi formulir dan mengunggah dokumen, mengirim data untuk diproses, mengikuti tes dan wawancara sesuai jadwal, lalu kembali login untuk melihat hasil seleksi dan melanjutkan tahap registrasi bila diterima."
+  },
+  {
+    "category": "Umum",
+    "instruction": "Buat teks pengantar singkat yang menjelaskan bahwa seluruh informasi resmi ada di pmb.uajy.ac.id.",
+    "input": "Pengantar bahwa info resmi ada di pmb.uajy.ac.id",
+    "output": "Seluruh informasi resmi mengenai jalur, jadwal, persyaratan, dan tata cara pendaftaran di Universitas Atma Jaya Yogyakarta dapat diakses melalui laman pmb.uajy.ac.id."
+  },
+  {
+    "category": "Umum",
+    "instruction": "Susun kalimat yang bisa dipakai untuk mengarahkan calon pendaftar menghubungi kontak resmi jika ada kendala.",
+    "input": "Arahan hubungi kontak resmi PMB",
+    "output": "Jika mengalami kendala selama proses pendaftaran, calon mahasiswa dapat menghubungi kontak resmi PMB UAJY yang tercantum pada laman informasi untuk mendapatkan bantuan lebih lanjut."
+  },
+  {
+    "category": "Umum",
+    "instruction": "Buat teks singkat yang menjelaskan kelebihan sistem PMB UAJY yang terintegrasi (alur, pembayaran, seleksi).",
+    "input": "Kelebihan sistem PMB UAJY terintegrasi",
+    "output": "Sistem PMB UAJY terintegrasi mulai dari pembuatan akun, pembayaran biaya pendaftaran, hingga seleksi dan pengumuman hasil, sehingga data calon mahasiswa tercatat rapi dan proses dapat diikuti secara daring dari satu portal."
+  },
+  {
+    "category": "Umum",
+    "instruction": "Buat paragraf pendek yang cocok untuk halaman FAQ umum PMB tentang langkah besar yang harus disiapkan calon pendaftar.",
+    "input": "Paragraf FAQ tentang langkah besar yang disiapkan calon pendaftar",
+    "output": "Calon pendaftar perlu menyiapkan alamat email aktif, membaca informasi jalur dan persyaratan, membuat kode akun, membayar biaya pendaftaran sesuai jenjang, mengisi formulir online dengan benar, mengunggah dokumen pendukung, serta mengikuti jadwal tes dan wawancara yang berlaku."
+  },
+  {
+    "category": "Umum",
+    "instruction": "Susun kalimat singkat yang mendorong calon pendaftar membaca panduan alur pendaftaran sebelum memulai.",
+    "input": "Imbauan baca panduan alur sebelum mulai daftar",
+    "output": "Sebelum memulai proses pendaftaran, calon mahasiswa dianjurkan membaca terlebih dahulu panduan alur pendaftaran di laman PMB agar setiap langkah dapat dijalankan dengan benar dan efisien."
+  },
+  {
+    "category": "S3",
+    "instruction": "Buat kalimat promosi singkat untuk menarik minat calon mahasiswa S3 Teknologi Informasi UAJY.",
+    "input": "Promosi singkat S3 Teknologi Informasi UAJY",
+    "output": "Program S3 Teknologi Informasi UAJY menawarkan fokus pada Innovation in Data Science, Intelligent Informatics, dan IT Management, menjadikannya pilihan tepat bagi profesional TI yang ingin memperdalam keahlian riset di era transformasi digital."
+  },
+  {
+    "category": "S3",
+    "instruction": "Buat kalimat promosi singkat untuk S3 Arsitektur AINA UAJY.",
+    "input": "Promosi singkat S3 Arsitektur AINA UAJY",
+    "output": "Program S3 Arsitektur UAJY dengan fokus Artificially Intelligent Neuro Architecture (AINA) membuka peluang riset lintas disiplin antara arsitektur, kecerdasan buatan, dan ilmu syaraf."
+  },
+  {
+    "category": "S3",
+    "instruction": "Buat kalimat promosi singkat untuk S3 Hukum teknologi digital UAJY.",
+    "input": "Promosi singkat S3 Hukum UAJY",
+    "output": "Program S3 Hukum UAJY mengkaji pengembangan keilmuan hukum di bidang teknologi digital dari perspektif moral, relevan bagi praktisi dan akademisi yang peduli pada isu etika di dunia siber."
+  },
+  {
+    "category": "S3",
+    "instruction": "Buat kalimat promosi singkat untuk S3 Teknik Sipil UAJY.",
+    "input": "Promosi singkat S3 Teknik Sipil UAJY",
+    "output": "Program S3 Teknik Sipil UAJY berfokus pada pengembangan ilmu untuk infrastruktur dan konstruksi maju, cocok bagi profesional yang ingin berkontribusi pada pembangunan berkelanjutan."
+  },
+  {
+    "category": "S3",
+    "instruction": "Tuliskan FAQ singkat: apakah pendaftar S3 harus sudah bekerja.",
+    "input": "FAQ apakah S3 UAJY harus sudah bekerja",
+    "output": "Pada informasi resmi pendaftaran S3 UAJY tidak dicantumkan kewajiban sudah bekerja; persyaratan lebih menekankan ijazah, transkrip legalisir, usulan penelitian, dan kesiapan mengikuti seleksi akademik."
+  },
+  {
+    "category": "S3",
+    "instruction": "Buat kalimat FAQ: apakah usulan penelitian S3 harus final.",
+    "input": "FAQ apakah usulan penelitian S3 harus final",
+    "output": "Usulan penelitian S3 yang diajukan saat pendaftaran tidak harus sama persis dengan disertasi akhir, namun harus cukup matang untuk menunjukkan arah riset dan kesesuaian dengan fokus prodi."
+  },
+  {
+    "category": "S3",
+    "instruction": "Buat instruksi singkat kepada calon pendaftar untuk membaca fokus masing‑masing prodi sebelum menyusun proposal.",
+    "input": "Instruksi baca fokus prodi S3 sebelum susun proposal",
+    "output": "Sebelum menyusun usulan penelitian, calon pendaftar S3 dianjurkan mempelajari terlebih dahulu fokus keilmuan masing‑masing prodi di laman PMB agar topik yang diusulkan selaras dengan bidang unggulan program."
+  },
+  {
+    "category": "S3",
+    "instruction": "Buat paragraf pendek yang menjelaskan pentingnya kesesuaian topik riset dengan fokus prodi S3.",
+    "input": "Pentingnya kesesuaian topik riset dengan fokus prodi S3",
+    "output": "Kesesuaian topik riset dengan fokus prodi S3 penting agar calon mahasiswa mendapatkan pembimbing yang relevan dan dukungan lingkungan riset yang memadai. Topik yang sejalan juga meningkatkan peluang diterima karena menunjukkan pemahaman terhadap arah pengembangan keilmuan di program tersebut."
+  },
+  {
+    "category": "S3",
+    "instruction": "Susun teks singkat untuk FAQ: apakah seleksi S3 UAJY dilakukan tatap muka.",
+    "input": "FAQ apakah seleksi S3 UAJY tatap muka",
+    "output": "Seleksi S3 UAJY, termasuk TKB dan wawancara, dilaksanakan secara daring, sehingga tidak mengharuskan calon pendaftar hadir secara tatap muka di kampus."
+  },
+  {
+    "category": "S3",
+    "instruction": "Buat teks pengingat tentang pentingnya memantau pengumuman di tanggal yang tertera di jadwal S3.",
+    "input": "Pengingat pantau tanggal pengumuman S3",
+    "output": "Calon pendaftar S3 perlu mencatat dan memantau tanggal pengumuman yang tercantum pada jadwal tiap gelombang, karena hasil seleksi dan instruksi registrasi akan dirilis pada tanggal tersebut."
+  },
+  {
+    "category": "S3",
+    "instruction": "Buat contoh kalimat pengumuman bahwa gelombang pendaftaran S3 Prog Gasal 1 telah dibuka.",
+    "input": "Contoh pengumuman buka gelombang Prog Gasal 1 S3",
+    "output": "Pendaftaran Program Doktor (S3) Prog Gasal 1 UAJY resmi dibuka mulai Februari hingga 8 April 2025; silakan cek laman PMB untuk detail jadwal TKB, wawancara, dan registrasi."
+  },
+  {
+    "category": "S3",
+    "instruction": "Buat contoh kalimat pengumuman bahwa pendaftaran S3 Prog Gasal 3 segera ditutup.",
+    "input": "Contoh pengumuman penutupan dekat Prog Gasal 3 S3",
+    "output": "Pendaftaran S3 Prog Gasal 3 UAJY akan ditutup pada 29 Juli 2025, calon pendaftar diimbau segera menyelesaikan pengisian formulir dan pengunggahan dokumen sebelum batas waktu."
+  },
+  {
+    "category": "S3",
+    "instruction": "Buat teks singkat mengenai pentingnya mengikuti TKB sesuai gelombang yang dipilih.",
+    "input": "Pentingnya ikut TKB sesuai gelombang S3",
+    "output": "Calon mahasiswa S3 harus mengikuti TKB pada rentang tanggal yang sesuai dengan gelombang pendaftaran yang dipilih, karena jadwal tersebut menjadi dasar pemrosesan hasil seleksi."
+  },
+  {
+    "category": "S3",
+    "instruction": "Buat instruksi singkat untuk menyiapkan koneksi internet yang stabil saat TKB daring.",
+    "input": "Instruksi koneksi internet saat TKB daring S3",
+    "output": "Sebelum mengikuti TKB daring S3, pastikan koneksi internet stabil, perangkat terisi daya, dan lokasi ujian tenang agar proses pengerjaan soal tidak terganggu."
+  },
+  {
+    "category": "S3",
+    "instruction": "Buat instruksi singkat untuk menyiapkan berkas saat wawancara online S3.",
+    "input": "Instruksi menyiapkan berkas saat wawancara online S3",
+    "output": "Saat wawancara online S3, siapkan salinan usulan penelitian, CV, serta ijazah dan transkrip nilai untuk memudahkan menjawab pertanyaan tim pewawancara."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Buat teks singkat untuk banner online promosi PPAr UAJY.",
+    "input": "Teks banner promosi PPAr UAJY",
+    "output": "Daftar PPAr UAJY Semester Gasal 2026/2027! Khusus lulusan S1 Arsitektur 2021–2026, siap mengasah portofolio dan kompetensi profesi arsitek."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Buat kalimat singkat yang menekankan bahwa PPAr UAJY ditujukan bagi lulusan S1 Arsitektur.",
+    "input": "Penekanan sasaran PPAr UAJY",
+    "output": "PPAr UAJY secara khusus ditujukan bagi lulusan S1 Program Studi Arsitektur yang ingin melanjutkan ke jenjang profesi."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Susun kalimat FAQ: apakah lulusan sebelum 2021 bisa mendaftar PPAr.",
+    "input": "FAQ apakah lulusan sebelum 2021 bisa daftar PPAr",
+    "output": "Berdasarkan informasi resmi, PPAr UAJY menerima lulusan S1 Arsitektur tahun 2021 hingga 2026, sehingga lulusan sebelum 2021 berada di luar rentang yang tercantum."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Buat arahan singkat untuk mengecek nilai Studio Desain sebelum mendaftar PPAr.",
+    "input": "Arahan cek nilai Studio Desain sebelum daftar PPAr",
+    "output": "Sebelum mendaftar PPAr UAJY, calon pendaftar sebaiknya mengecek kembali nilai Studio Desain semester 5–8 karena nilai di atas B+ menjadi salah satu prioritas dalam seleksi."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Buat paragraf pendek yang menjelaskan apa yang dinilai saat wawancara PPAr.",
+    "input": "Apa yang dinilai saat wawancara PPAr",
+    "output": "Pada wawancara PPAr UAJY, tim penilai biasanya menggali motivasi mengikuti program profesi, pemahaman terhadap portofolio karya, kesiapan waktu dan komitmen belajar, serta rencana karier sebagai arsitek profesional."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Buat instruksi singkat tentang format CV yang baik untuk lamaran PPAr.",
+    "input": "Instruksi format CV untuk PPAr",
+    "output": "CV untuk PPAr UAJY sebaiknya tersusun kronologis, memuat pendidikan, pengalaman kerja praktik/PKL di bidang arsitektur, serta daftar penghargaan atau kompetisi yang relevan."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Susun kalimat yang menjelaskan bahwa jadwal pendaftaran PPAr akan muncul di tabel setelah ditentukan.",
+    "input": "Penjelasan jadwal PPAr muncul di tabel",
+    "output": "Begitu jadwal pendaftaran PPAr sudah ditetapkan, detail tanggal pendaftaran, wawancara, pengumuman, angsuran pertama, dan registrasi akan tercantum pada tabel jadwal di laman PMB."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Buat kalimat yang mendorong pendaftar PPAr menyiapkan portofolio sebaik mungkin karena berperan penting dalam seleksi.",
+    "input": "Imbauan menyiapkan portofolio PPAr sebaik mungkin",
+    "output": "Calon pendaftar PPAr dianjurkan menyusun portofolio dengan selektif dan rapi, karena kualitas portofolio menjadi salah satu pertimbangan utama dalam proses seleksi."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Buat teks singkat mengenai manfaat mengikuti PPAr bagi karier arsitek.",
+    "input": "Manfaat PPAr untuk karier arsitek",
+    "output": "Mengikuti PPAr membantu lulusan Sarjana Arsitektur memperoleh kompetensi profesional yang diakui, sehingga lebih siap untuk meraih lisensi dan bersaing di dunia kerja arsitektur."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Buat FAQ singkat: apakah sertifikat TOEFL/IELTS boleh menyusul untuk PPAr.",
+    "input": "FAQ apakah sertifikat TOEFL/IELTS bisa menyusul PPAr",
+    "output": "Sertifikat TOEFL/IELTS minimal skor 450/4,0 merupakan syarat yudisium PPAr; jika belum memiliki saat mendaftar, pendaftar masih dapat menyusulkannya hingga tiga bulan sebelum yudisium."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Susun kalimat untuk mengingatkan pendaftar dari luar UAJY tentang pentingnya rekomendasi dosen.",
+    "input": "Pengingat pentingnya rekomendasi dosen untuk pendaftar luar UAJY",
+    "output": "Pendaftar PPAr dari luar UAJY perlu memastikan rekomendasi dari dosen pembimbing tugas akhir atau kaprodi telah disiapkan, karena dokumen ini menjadi bukti pendukung kualitas akademik dan profesional."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Buat kalimat yang menjelaskan bahwa nominal biaya pendaftaran berbeda untuk tiap jenjang.",
+    "input": "Penjelasan nominal berbeda per jenjang",
+    "output": "Nominal biaya pendaftaran di PMB UAJY berbeda untuk tiap jenjang studi: S1, S2, dan S3 memiliki tarif sendiri sesuai informasi resmi pada laman tata cara pembayaran."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Buat paragraf pendek yang menjelaskan kelebihan menggunakan BRImo untuk pembayaran biaya pendaftaran.",
+    "input": "Kelebihan bayar biaya pendaftaran lewat BRImo",
+    "output": "Pembayaran biaya pendaftaran lewat BRImo memungkinkan calon pendaftar menyelesaikan transaksi dari mana saja tanpa perlu datang ke ATM atau kantor cabang. Prosesnya cepat karena menu BRIVA tersedia langsung di aplikasi, dan bukti pembayaran dapat disimpan dalam bentuk digital."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Susun kalimat FAQ: apakah bisa membayar biaya pendaftaran di teller bank lain (bukan BRI).",
+    "input": "FAQ apakah bisa bayar di teller bank lain",
+    "output": "Informasi tata cara pembayaran menekankan penggunaan BRIVA melalui kanal BRI, ATM bank lain, mobile banking, dan internet banking; pembayaran langsung melalui teller bank lain di luar BRI tidak dijelaskan di panduan resmi."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Buat teks singkat yang menjelaskan bahwa pembayaran melalui ATM bank lain menggunakan menu transfer antar bank.",
+    "input": "Penjelasan menu transfer antar bank untuk pembayaran dari ATM bank lain",
+    "output": "Jika menggunakan ATM bank lain, pembayaran biaya pendaftaran dilakukan lewat menu 'Transfer antar bank' dengan memilih tujuan BRI dan mengisikan nomor rekening sebagai gabungan kode bank BRI dan nomor virtual account."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Buat kalimat FAQ: apakah pembayaran BRIVA bisa menggunakan BI Fast.",
+    "input": "FAQ apakah BRIVA bisa pakai BI Fast",
+    "output": "Pada panduan tata cara pembayaran dijelaskan bahwa pembayaran BRIVA dari bank lain dilakukan melalui menu transfer antar bank biasa dan tidak dapat menggunakan BI Fast maupun kliring."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Buat paragraf pendek yang menjelaskan risiko salah memasukkan nomor virtual account.",
+    "input": "Risiko salah nomor virtual account",
+    "output": "Jika nomor virtual account dimasukkan salah, pembayaran bisa tercatat ke akun yang berbeda atau gagal terhubung ke sistem PMB, sehingga status biaya pendaftaran tidak terverifikasi. Kondisi ini berpotensi menghambat proses pendaftaran dan memerlukan klarifikasi tambahan ke pihak bank atau PMB."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Susun kalimat pendek yang menekankan pentingnya menyimpan struk atau bukti transfer.",
+    "input": "Penekanan pentingnya menyimpan struk",
+    "output": "Setiap kali melakukan pembayaran biaya pendaftaran, calon mahasiswa perlu menyimpan struk atau bukti transfer sebagai dokumentasi resmi jika suatu saat diminta oleh panitia PMB."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Buat instruksi singkat pembayaran BRIVA bagi calon pendaftar yang belum pernah menggunakan virtual account.",
+    "input": "Instruksi singkat untuk pemula bayar BRIVA",
+    "output": "Untuk pertama kali membayar BRIVA, cukup pilih menu pembayaran/transfer sesuai kanal yang digunakan, masukkan nomor virtual account atau kode pembayaran yang diberikan PMB UAJY, pastikan nama dan nominal yang muncul sudah sesuai, lalu selesaikan transaksi dan simpan bukti."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Susun FAQ: apakah biaya pendaftaran dapat dikembalikan jika tidak jadi mendaftar.",
+    "input": "FAQ pengembalian biaya pendaftaran",
+    "output": "Umumnya biaya pendaftaran bersifat non‑refundable; kebijakan pengembalian tidak disebutkan di panduan pembayaran, sehingga calon pendaftar sebaiknya menganggap biaya tersebut tidak dapat dikembalikan."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Buat kalimat pengingat bahwa program beasiswa bebas biaya pendaftaran.",
+    "input": "Pengingat bebas biaya pendaftaran untuk beasiswa",
+    "output": "Bagi pendaftar jalur beasiswa, biaya pendaftaran tidak dikenakan sehingga tidak perlu melakukan pembayaran BRIVA untuk formulir."
+  },
+  {
+    "category": "Alur",
+    "instruction": "Buat teks singkat yang menjelaskan bahwa alur pendaftaran S1, S2, S3, dan profesi sama dari sisi sistem PMB.",
+    "input": "Penjelasan alur pendaftaran sama untuk semua jenjang",
+    "output": "Secara sistem, alur pendaftaran untuk S1, S2, S3, dan Pendidikan Profesi di PMB UAJY serupa: membuat kode akun, membayar biaya pendaftaran, mengisi dan mengirim formulir, lalu mengikuti seleksi sesuai ketentuan masing‑masing program."
+  },
+  {
+    "category": "Alur",
+    "instruction": "Susun paragraf pendek yang menjelaskan posisi halaman 'Alur Pendaftaran' di situs PMB UAJY.",
+    "input": "Posisi dan fungsi halaman Alur Pendaftaran",
+    "output": "Halaman 'Alur Pendaftaran' di situs PMB UAJY berfungsi sebagai panduan umum langkah demi langkah bagi calon mahasiswa. Di sana dijelaskan urutan proses mulai dari mendapatkan kode akun hingga mengecek hasil seleksi."
+  },
+  {
+    "category": "Alur",
+    "instruction": "Buat instruksi singkat untuk calon pendaftar agar membaca halaman 'Tata Cara Pembayaran' setelah mendapatkan kode akun.",
+    "input": "Instruksi baca Tata Cara Pembayaran setelah dapat kode akun",
+    "output": "Setelah memperoleh kode akun, calon pendaftar dianjurkan langsung membaca halaman 'Tata Cara Pembayaran' untuk mengetahui cara dan nominal pembayaran biaya pendaftaran yang benar."
+  },
+  {
+    "category": "Alur",
+    "instruction": "Buat teks singkat yang menjelaskan bahwa hasil seleksi hanya dapat diakses setelah login.",
+    "input": "Penjelasan hasil seleksi hanya bisa diakses setelah login",
+    "output": "Hasil seleksi PMB hanya dapat diakses oleh pendaftar yang login menggunakan kode akun dan password, sehingga informasi tersebut bersifat personal dan aman."
+  },
+  {
+    "category": "Alur",
+    "instruction": "Susun kalimat yang mendorong pendaftar mencatat username/password PMB dengan aman.",
+    "input": "Imbauan mencatat username/password PMB dengan aman",
+    "output": "Calon pendaftar sebaiknya mencatat username dan password akun PMB di tempat yang aman agar tidak mengalami kesulitan saat akan login kembali untuk melengkapi data atau mengecek hasil seleksi."
+  },
+  {
+    "category": "Alur",
+    "instruction": "Buat paragraf pendek yang menjelaskan hubungan antara alur pendaftaran dan tata cara pembayaran.",
+    "input": "Hubungan alur pendaftaran dan tata cara pembayaran",
+    "output": "Alur pendaftaran dan tata cara pembayaran saling terkait: setelah mendapatkan kode akun di alur pendaftaran, calon mahasiswa harus mengikuti tata cara pembayaran menggunakan BRIVA agar dapat melanjutkan ke pengisian formulir. Tanpa pembayaran yang tercatat, proses pendaftaran belum dianggap lengkap."
+  },
+  {
+    "category": "Alur",
+    "instruction": "Susun kalimat pengantar untuk bagian FAQ yang menggabungkan topik alur, pembayaran, dan seleksi.",
+    "input": "Kalimat pengantar FAQ alur-pembayaran-seleksi",
+    "output": "Bagian FAQ berikut merangkum pertanyaan umum seputar alur pendaftaran, tata cara pembayaran biaya formulir, serta proses seleksi di PMB UAJY."
+  },
+  {
+    "category": "Umum",
+    "instruction": "Buat paragraf pendek yang menjelaskan kepada calon mahasiswa bahwa informasi dapat berubah dan harus dicek berkala.",
+    "input": "Penjelasan bahwa informasi PMB bisa berubah",
+    "output": "Calon mahasiswa perlu memahami bahwa jadwal dan ketentuan PMB dapat mengalami pembaruan sesuai kebijakan universitas. Oleh karena itu, sangat penting untuk mengecek laman resmi PMB UAJY secara berkala."
+  },
+  {
+    "category": "Umum",
+    "instruction": "Buat kalimat singkat yang menyarankan pendaftar menyimpan tautan penting PMB di browser.",
+    "input": "Saran menyimpan tautan penting PMB di browser",
+    "output": "Disarankan untuk menyimpan bookmark tautan PMB UAJY, termasuk halaman alur pendaftaran dan tata cara pembayaran, agar mudah diakses kembali saat dibutuhkan."
+  },
+  {
+    "category": "Umum",
+    "instruction": "Susun kalimat untuk FAQ: di mana menemukan kontak resmi jika butuh bantuan.",
+    "input": "FAQ di mana menemukan kontak resmi PMB",
+    "output": "Kontak resmi PMB UAJY dapat ditemukan pada menu atau halaman 'Kontak' di situs pmb.uajy.ac.id."
+  },
+  {
+    "category": "Umum",
+    "instruction": "Buat paragraf pendek yang menjelaskan manfaat membaca seluruh halaman informasi sebelum bertanya.",
+    "input": "Manfaat membaca seluruh halaman informasi sebelum bertanya",
+    "output": "Dengan membaca seluruh halaman informasi PMB, termasuk alur, jadwal, dan tata cara pembayaran, calon mahasiswa sering kali sudah mendapatkan jawaban atas pertanyaan umum. Hal ini menghemat waktu dan mengurangi potensi miskomunikasi."
+  },
+  {
+    "category": "Umum",
+    "instruction": "Buat kalimat singkat yang bisa digunakan sebagai footer: 'Ikuti media sosial resmi PMB UAJY untuk update'.",
+    "input": "Kalimat footer ajakan follow media sosial PMB",
+    "output": "Ikuti media sosial resmi PMB UAJY untuk mendapatkan update terkini seputar jalur pendaftaran dan kegiatan kampus."
+  },
+  {
+    "category": "S1",
+    "instruction": "Buat kalimat FAQ: berapa biaya pendaftaran S1 di PMB UAJY.",
+    "input": "FAQ biaya pendaftaran S1 PMB UAJY",
+    "output": "Biaya pendaftaran untuk program Sarjana (S1) di PMB UAJY adalah Rp 300.000 sesuai informasi pada tata cara pembayaran dan halaman informasi S1."
+  },
+  {
+    "category": "S1",
+    "instruction": "Buat kalimat singkat tentang siapa saja yang boleh mendaftar S1 di UAJY.",
+    "input": "Siapa yang boleh mendaftar S1 UAJY",
+    "output": "Pendaftaran S1 UAJY terbuka bagi siswa SMA/SMK/MA sederajat yang sedang duduk di kelas XII, maupun lulusan tahun sebelumnya yang memenuhi syarat jalur yang dibuka."
+  },
+  {
+    "category": "S1",
+    "instruction": "Buat kalimat singkat yang menjelaskan bahwa ada beberapa jalur masuk S1 (Unggulan, Rapor, CBT, dll).",
+    "input": "Penjelasan singkat jalur masuk S1 UAJY",
+    "output": "Untuk program S1, UAJY menyediakan beberapa jalur masuk seperti Unggulan, Rapor, Gap Year, Nilai Ijazah, CBT Online, CBT On Campus, dan UTBK."
+  },
+  {
+    "category": "S1",
+    "instruction": "Buat paragraf pendek yang menjelaskan perbedaan umum jalur seleksi dokumen dan seleksi tes untuk S1.",
+    "input": "Perbedaan jalur seleksi dokumen dan tes S1 UAJY",
+    "output": "Jalur seleksi dokumen S1 UAJY menilai calon mahasiswa berdasarkan nilai rapor, nilai ijazah, atau prestasi akademik tanpa tes tambahan. Sementara itu, jalur seleksi tes seperti CBT Online/On Campus mewajibkan calon mengikuti ujian berbasis komputer pada jadwal yang sudah ditentukan."
+  },
+  {
+    "category": "S1",
+    "instruction": "Susun FAQ: apa itu jalur CBT Online dan CBT On Campus untuk S1.",
+    "input": "FAQ CBT Online dan CBT On Campus S1",
+    "output": "CBT Online adalah jalur tes berbasis komputer yang dikerjakan secara daring dari lokasi masing‑masing peserta, sedangkan CBT On Campus adalah tes berbasis komputer yang dikerjakan langsung di kampus UAJY pada laboratorium yang disediakan."
+  },
+  {
+    "category": "S1",
+    "instruction": "Buat kalimat singkat yang menjelaskan bahwa biaya pendaftaran S1 dibayar via BRIVA.",
+    "input": "Penjelasan pembayaran biaya pendaftaran S1 via BRIVA",
+    "output": "Biaya pendaftaran S1 sebesar Rp 300.000 dibayarkan menggunakan BRIVA melalui kanal pembayaran yang tertera di halaman Cara Pembayaran PMB UAJY."
+  },
+  {
+    "category": "S2",
+    "instruction": "Buat kalimat FAQ: berapa biaya pendaftaran S2 di PMB UAJY.",
+    "input": "FAQ biaya pendaftaran S2 PMB UAJY",
+    "output": "Biaya pendaftaran untuk program Magister (S2) di PMB UAJY adalah Rp 400.000, sesuai nominal yang disebutkan pada tata cara pembayaran BRIVA."
+  },
+  {
+    "category": "S2",
+    "instruction": "Buat paragraf pendek yang menjelaskan syarat umum pendaftar S2 menurut info S2 UAJY.",
+    "input": "Syarat umum pendaftar S2 UAJY",
+    "output": "Informasi Program Magister UAJY menyebutkan bahwa pendaftar umumnya adalah lulusan S1 dalam rentang waktu tertentu, dengan IPK minimal yang ditetapkan, serta diharapkan memiliki pengalaman penelitian, publikasi, atau prestasi yang mendukung proses studi di program pascasarjana."
+  },
+  {
+    "category": "S2",
+    "instruction": "Buat kalimat singkat yang menegaskan bahwa informasi rinci S2 ada di halaman infoS2.",
+    "input": "Penegasan informasi rinci S2 di infoS2",
+    "output": "Informasi rinci mengenai syarat, jalur, dan jadwal program Magister UAJY dapat dilihat di halaman 'Informasi Program Magister' pada situs PMB UAJY."
+  },
+  {
+    "category": "S2",
+    "instruction": "Buat kalimat pengantar yang mengarahkan pendaftar S2 untuk membaca infoS2 dan Cara Pembayaran.",
+    "input": "Pengantar arahkan baca infoS2 dan Cara Pembayaran",
+    "output": "Calon pendaftar S2 dianjurkan untuk terlebih dahulu membaca halaman 'Informasi Program Magister' dan 'Cara Pembayaran BRIVA' agar memahami persyaratan akademik dan teknis pembayaran biaya pendaftaran."
+  },
+  {
+    "category": "S2",
+    "instruction": "Susun FAQ singkat: apakah pendaftar S2 juga memakai alur pendaftaran di halaman Alur.",
+    "input": "FAQ apakah S2 pakai alur umum pmb.uajy.ac.id/Home/alur",
+    "output": "Ya, pendaftar S2 tetap mengikuti alur umum pendaftaran yang dijelaskan di halaman 'Alur Pendaftaran', mulai dari mendapatkan kode akun, membayar biaya pendaftaran, mengisi formulir, hingga mengecek hasil seleksi."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Buat kalimat FAQ: berapa biaya pendaftaran PPAr berdasarkan detail jadwal Program Profesi Gasal 1.",
+    "input": "FAQ biaya pendaftaran PPAr Program Profesi Gasal 1",
+    "output": "Biaya pendaftaran untuk Program Pendidikan Profesi Arsitek (PPAr) pada Program Profesi Gasal 1 tercantum sebesar Rp 400.000."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Buat kalimat singkat yang menjelaskan bahwa alur teknis PPAr mengikuti link Alur Pendaftaran.",
+    "input": "Penjelasan alur teknis PPAr mengikuti link alur",
+    "output": "Alur teknis pendaftaran PPAr mengikuti instruksi pada halaman 'Alur Pendaftaran' di situs PMB UAJY."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Susun paragraf pendek yang menghubungkan halaman InfoPR, detil jadwal Profesi Gasal 1, dan Alur pendaftaran.",
+    "input": "Hubungan InfoPR, detil jadwal Profesi Gasal 1, dan Alur",
+    "output": "Halaman InfoPR memberikan gambaran umum tentang PPAr dan persyaratannya, sedangkan detail jadwal Program Profesi Gasal 1 memuat besaran biaya pendaftaran dan keterangan teknis lainnya. Untuk langkah operasional mulai dari akun hingga kirim data, pendaftar diarahkan mengikuti instruksi di halaman 'Alur Pendaftaran'."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Buat FAQ: apakah alur pendaftaran PPAr berbeda jauh dari S2/S3.",
+    "input": "FAQ apakah alur PPAr berbeda dari S2/S3",
+    "output": "Alur pendaftaran PPAr secara sistem tidak berbeda jauh dari S2/S3, karena sama‑sama menggunakan kode akun PMB, pembayaran BRIVA, pengisian formulir online, dan pengunggahan dokumen; perbedaannya ada pada jenis seleksi dan persyaratan khusus program."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Buat kalimat pengingat bahwa jadwal PPAr masih menyusul dan bisa berubah.",
+    "input": "Pengingat jadwal PPAr masih menyusul",
+    "output": "Pada InfoPR, jadwal pendaftaran PPAr masih ditandai 'menyusul' sehingga calon pendaftar perlu menunggu pembaruan resmi dan menyadari bahwa jadwal dapat berubah sesuai kebijakan universitas."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Buat ringkasan satu kalimat tentang semua kanal pembayaran BRIVA yang tersedia.",
+    "input": "Ringkasan kanal pembayaran BRIVA",
+    "output": "Biaya pendaftaran PMB UAJY dapat dibayar melalui ATM BRI, aplikasi BRImo, mesin EDC BRI, teller BRI, serta ATM, mobile banking, dan internet banking bank lain dengan menggunakan nomor virtual account BRIVA."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Susun FAQ: di mana menemukan nominal yang harus diinput saat bayar BRIVA.",
+    "input": "FAQ di mana melihat nominal bayar BRIVA",
+    "output": "Nominal biaya pendaftaran yang harus diinput saat membayar BRIVA tercantum pada informasi PMB masing‑masing jenjang (S1/S2/S3/Profesi) dan juga dijelaskan di halaman Cara Pembayaran BRIVA."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Buat kalimat pengingat bahwa biaya pendaftaran S3 dan S1 Kedokteran sama.",
+    "input": "Pengingat biaya pendaftaran S3 dan S1 Kedokteran sama",
+    "output": "Biaya pendaftaran untuk S3 dan Program S1 Kedokteran di PMB UAJY sama‑sama sebesar Rp 500.000."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Buat paragraf pendek yang menjelaskan mengapa panduan pembayaran menyebutkan contoh format nomor VA (7000524xxxxxxxx).",
+    "input": "Penjelasan contoh format nomor VA di panduan pembayaran",
+    "output": "Panduan pembayaran memberi contoh format nomor virtual account seperti 7000524xxxxxxxx untuk membantu calon pendaftar mengenali pola nomor BRIVA yang benar. Dengan begitu, pendaftar dapat membedakan nomor VA resmi dari kesalahan input atau nomor lain yang tidak terkait PMB."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Buat FAQ: apakah bukti pembayaran perlu diunggah ke sistem PMB.",
+    "input": "FAQ apakah bukti pembayaran BRIVA perlu diunggah ke sistem",
+    "output": "Secara umum, sistem PMB membaca pembayaran BRIVA secara otomatis, namun calon pendaftar tetap disarankan menyimpan bukti pembayaran; jika sewaktu‑waktu diminta, bukti tersebut dapat diunggah atau dikirim ke admin PMB."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Buat kalimat yang menekankan bahwa pembayaran hanya sah jika nomor VA dan nominal sesuai.",
+    "input": "Penekanan pembayaran sah jika nomor VA dan nominal sesuai",
+    "output": "Pembayaran biaya pendaftaran dianggap sah jika nomor virtual account dan nominal yang dimasukkan sesuai dengan data yang diberikan oleh sistem PMB UAJY."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Susun kalimat pendek tentang pentingnya mencocokkan nama yang muncul di layar sebelum konfirmasi.",
+    "input": "Pentingnya cek nama di layar sebelum konfirmasi",
+    "output": "Sebelum mengonfirmasi pembayaran, pendaftar perlu memastikan nama yang tampil di layar sesuai dengan identitas yang terdaftar pada PMB."
+  },
+  {
+    "category": "Pembayaran",
+    "instruction": "Buat paragraf saran untuk pendaftar yang belum familiar dengan BRImo agar meminta bantuan petugas bank.",
+    "input": "Saran untuk pendaftar yang belum familiar BRImo",
+    "output": "Bagi calon pendaftar yang belum terbiasa menggunakan aplikasi BRImo, dianjurkan meminta bantuan petugas di kantor cabang BRI atau keluarga yang memahami prosedur pembayaran digital. Hal ini untuk mengurangi risiko kesalahan input nomor virtual account maupun nominal."
+  },
+  {
+    "category": "Alur",
+    "instruction": "Buat FAQ singkat: apakah langkah alur pendaftaran berbeda jika memakai jalur beasiswa.",
+    "input": "FAQ alur pendaftaran jalur beasiswa",
+    "output": "Secara umum langkah di sistem (membuat akun, mengisi formulir, unggah dokumen) sama, namun pada jalur beasiswa tidak ada kewajiban membayar biaya pendaftaran karena bebas biaya formulir."
+  },
+  {
+    "category": "Alur",
+    "instruction": "Buat paragraf pendek yang menjelaskan integrasi alur pendaftaran dengan jadwal seleksi di detil jadwal.",
+    "input": "Integrasi alur pendaftaran dengan detil jadwal seleksi",
+    "output": "Alur pendaftaran memberikan gambaran langkah teknis, sedangkan setiap jalur dan jenjang memiliki detil jadwal tersendiri yang memuat tanggal pendaftaran, tes, wawancara, dan pengumuman. Calon mahasiswa perlu mengikuti alur umum sambil menyesuaikan dengan jadwal spesifik program yang dipilih."
+  },
+  {
+    "category": "Alur",
+    "instruction": "Buat kalimat singkat yang menjelaskan bahwa jadwal tes bisa diinformasikan via email atau WA.",
+    "input": "Penjelasan jadwal tes bisa diinformasikan via email/WA",
+    "output": "Beberapa detil jadwal PMB UAJY mencantumkan bahwa informasi teknis tes online akan dikirimkan melalui email atau WhatsApp menjelang hari pelaksanaan."
+  },
+  {
+    "category": "Alur",
+    "instruction": "Susun instruksi agar pendaftar rutin mengecek email dan WA setelah mendaftar.",
+    "input": "Instruksi cek email dan WA setelah mendaftar",
+    "output": "Setelah menyelesaikan pendaftaran, calon mahasiswa dianjurkan untuk rutin mengecek email dan WhatsApp karena informasi jadwal tes dan detail pelaksanaan dapat dikirimkan melalui dua kanal tersebut."
+  },
+  {
+    "category": "Alur",
+    "instruction": "Buat FAQ: apakah bisa mengubah pilihan prodi setelah menekan KIRIM DATA.",
+    "input": "FAQ apakah pilihan prodi bisa diubah setelah KIRIM DATA",
+    "output": "Setelah tombol 'KIRIM DATA' ditekan, data pendaftaran biasanya dianggap final; perubahan pilihan program studi perlu dikonsultasikan langsung dengan admin PMB melalui kontak resmi jika benar‑benar mendesak."
+  },
+  {
+    "category": "Alur",
+    "instruction": "Buat paragraf pendek yang menjelaskan hubungan antara program, jalur, dan detil jadwal.",
+    "input": "Hubungan program, jalur, dan detil jadwal di PMB UAJY",
+    "output": "Dalam PMB UAJY, satu program studi bisa dibuka melalui beberapa jalur, misalnya seleksi dokumen dan seleksi tes. Masing‑masing jalur tersebut memiliki detil jadwal tersendiri yang menjelaskan periode pendaftaran, tes, dan pengumuman."
+  },
+  {
+    "category": "Alur",
+    "instruction": "Susun kalimat yang menjelaskan bahwa alur di web berlaku umum untuk semua program.",
+    "input": "Penjelasan alur di web berlaku umum",
+    "output": "Alur pendaftaran yang ditampilkan di laman PMB UAJY berlaku secara umum untuk semua program dan jenjang, sementara perbedaan teknis diatur di detil masing‑masing program."
+  },
+  {
+    "category": "S3",
+    "instruction": "Buat FAQ: apakah jadwal S3 hanya untuk semester gasal saja.",
+    "input": "FAQ apakah jadwal S3 hanya gasal",
+    "output": "Pada info S3 ditampilkan jadwal untuk Program Gasal (beberapa gelombang) dan juga terdapat jadwal untuk semester genap di detil lain, sehingga pendaftar perlu memperhatikan apakah mendaftar untuk gasal atau genap."
+  },
+  {
+    "category": "S3",
+    "instruction": "Buat kalimat singkat yang menghubungkan infoS3 dengan detil jadwal S3 Teknik Sipil Gasal.",
+    "input": "Hubungkan infoS3 dengan detil jadwal S3 Teknik Sipil Gasal",
+    "output": "InfoS3 menampilkan persyaratan umum dan jadwal global S3, sedangkan detil jadwal 'S3 Teknik Sipil Gasal' memberikan rincian syarat dan jadwal khusus untuk prodi Teknik Sipil."
+  },
+  {
+    "category": "S3",
+    "instruction": "Susun paragraf pendek yang menjelaskan bahwa persyaratan di detil jadwal S3 mengikuti daftar di infoS3.",
+    "input": "Penjelasan persyaratan detil jadwal S3 mengikuti infoS3",
+    "output": "Detil jadwal S3 Teknik Sipil Gasal mencantumkan persyaratan seperti ijazah dan transkrip legalisir, usulan penelitian, CV, serta sertifikat bahasa Inggris dan TPA (jika sudah ada) yang konsisten dengan daftar persyaratan pada halaman infoS3."
+  },
+  {
+    "category": "S3",
+    "instruction": "Buat kalimat singkat yang menjelaskan bahwa beberapa jadwal S3 menggunakan format CBT Online.",
+    "input": "Penjelasan beberapa jadwal S3 pakai CBT Online",
+    "output": "Pada beberapa detil jadwal S3 UAJY tertulis format seleksi CBT Online, yang berarti tes dilakukan secara daring menggunakan sistem komputer."
+  },
+  {
+    "category": "S3",
+    "instruction": "Susun FAQ: apakah biaya pendaftaran S3 sama untuk semua prodi S3.",
+    "input": "FAQ apakah biaya pendaftaran S3 sama untuk semua prodi",
+    "output": "Biaya pendaftaran S3 yang tercantum di panduan BRIVA adalah Rp 500.000 dan berlaku sebagai biaya pendaftaran Program Doktor, tanpa dibedakan per prodi."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Buat FAQ: apakah semua Pendidikan Profesi di UAJY saat ini adalah PPAr.",
+    "input": "FAQ apakah semua profesi adalah PPAr",
+    "output": "Pada halaman Informasi Pendidikan Profesi, program yang ditampilkan adalah Pendidikan Profesi Arsitek (PPAr); jika ada profesi lain, informasinya akan muncul di menu program profesi pada situs PMB."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Buat kalimat pengantar singkat untuk tabel biaya studi PPAr yang ada di detil info biaya.",
+    "input": "Pengantar singkat untuk tabel biaya studi PPAr",
+    "output": "Rincian komponen dan besaran biaya studi PPAr dapat dilihat pada dokumen 'Biaya Studi Program Pendidikan Profesi Semester Gasal' yang tercantum di menu Detail Info Biaya."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Susun kalimat yang menghubungkan biaya pendaftaran Profesi Gasal 1 (Rp 400.000) dengan nominal di Cara Pembayaran.",
+    "input": "Hubungkan biaya pendaftaran Profesi Gasal 1 dengan Cara Pembayaran",
+    "output": "Biaya pendaftaran Profesi Gasal 1 sebesar Rp 400.000 sejalan dengan informasi nominal pendaftaran S2/Profesi yang tercantum di halaman Cara Pembayaran BRIVA."
+  },
+  {
+    "category": "Profesi",
+    "instruction": "Buat FAQ: apakah pendaftar PPAr juga bebas biaya jika mengikuti program beasiswa tertentu.",
+    "input": "FAQ apakah pendaftar PPAr juga bebas biaya pendaftaran jika jalur beasiswa",
+    "output": "Pada panduan UMUM PMB disebutkan bahwa seluruh program beasiswa bebas biaya pendaftaran; jika PPAr dibuka melalui jalur beasiswa, maka ketentuan bebas biaya pendaftaran juga akan berlaku."
+  },
+  {
+    "category": "S1",
+    "instruction": "Buat kalimat singkat yang menghubungkan InfoS1 dengan Alur Pendaftaran.",
+    "input": "Hubungkan InfoS1 dengan Alur Pendaftaran",
+    "output": "Halaman InfoS1 menjelaskan syarat dan jalur untuk S1, sedangkan langkah teknis pendaftarannya mengikuti penjelasan di halaman Alur Pendaftaran PMB UAJY."
+  },
+  {
+    "category": "S1",
+    "instruction": "Susun paragraf pendek yang menerangkan bahwa setiap jalur S1 punya detil jadwal sendiri.",
+    "input": "Penjelasan setiap jalur S1 punya detil jadwal sendiri",
+    "output": "Masing‑masing jalur S1 seperti Unggulan, Rapor, CBT Online, dan lainnya memiliki detil jadwal tersendiri yang memuat tanggal pendaftaran, tes (jika ada), dan pengumuman. Karena itu, calon mahasiswa perlu membuka halaman detil jadwal yang sesuai dengan jalur yang diikuti."
+  },
+  {
+    "category": "S1",
+    "instruction": "Buat FAQ: apakah biaya pendaftaran S1 berbeda berdasarkan jalur.",
+    "input": "FAQ apakah biaya pendaftaran S1 berbeda per jalur",
+    "output": "Biaya pendaftaran S1 yang disebutkan di tata cara pembayaran adalah Rp 300.000 dan tidak dibedakan per jalur seleksi, kecuali jika pendaftar mengikuti program beasiswa yang bebas biaya."
+  },
+  {
+    "category": "S2",
+    "instruction": "Buat kalimat singkat yang menghubungkan infoS2 dengan detil jadwal CBT Online Gasal 3 (Periode 3).",
+    "input": "Hubungkan infoS2 dengan detil jadwal CBT Online Gasal 3",
+    "output": "InfoS2 memberikan gambaran umum persyaratan Magister, sedangkan detil jadwal 'CBT Online Gasal 3 (Periode 3)' menjelaskan jadwal dan biaya pendaftaran untuk salah satu jalur seleksi tes online."
+  },
+  {
+    "category": "S2",
+    "instruction": "Susun paragraf pendek yang menjelaskan isi utama detil jadwal CBT Online Gasal 3 (Periode 3).",
+    "input": "Isi utama detil jadwal CBT Online Gasal 3 Periode 3",
+    "output": "Detil jadwal CBT Online Gasal 3 (Periode 3) menampilkan syarat umum pendaftar (lulusan S1/D4, unggah ijazah dan transkrip, dan dokumen penunjang lain), besaran biaya pendaftaran, serta periode pendaftaran dan tanggal pelaksanaan tes online yang diinformasikan melalui email."
+  },
+  {
+    "category": "S2",
+    "instruction": "Buat FAQ: apakah jadwal tes online bisa berubah.",
+    "input": "FAQ apakah jadwal tes online bisa berubah",
+    "output": "Meskipun tanggal tes online tercantum di detil jadwal, panitia dapat menyesuaikan teknis pelaksanaan; perubahan atau info tambahan akan dikirimkan melalui email/WA yang terdaftar."
+  },
+  {
+    "category": "Umum",
+    "instruction": "Buat kalimat singkat yang menjelaskan bahwa PMB UAJY melayani S1, S2, S3, dan Pendidikan Profesi.",
+    "input": "Penjelasan singkat cakupan program PMB UAJY",
+    "output": "Portal PMB UAJY melayani pendaftaran Program Sarjana (S1), Program Magister (S2), Program Doktor (S3), dan Program Pendidikan Profesi."
+  },
+  {
+    "category": "Umum",
+    "instruction": "Susun paragraf pendek yang menjelaskan apa saja empat halaman utama yang sedang digunakan (infoS3, InfoPR, CaraPembayaran, Alur).",
+    "input": "Penjelasan empat halaman utama: infoS3, InfoPR, CaraPembayaran, Alur",
+    "output": "Halaman infoS3 berisi informasi Program Doktor, InfoPR memuat informasi Pendidikan Profesi Arsitek, Cara Pembayaran menjelaskan tata cara pembayaran BRIVA untuk biaya pendaftaran, dan Alur Pendaftaran menggambarkan langkah teknis pendaftaran di sistem PMB UAJY."
+  },
+  {
+    "category": "Umum",
+    "instruction": "Buat FAQ: di halaman mana melihat cara bayar biaya pendaftaran.",
+    "input": "FAQ halaman untuk melihat cara bayar biaya pendaftaran",
+    "output": "Cara bayar biaya pendaftaran dapat dilihat di halaman 'Cara Pembayaran BRIVA (Kode Akun Pendaftaran UAJY)' pada situs PMB UAJY."
+  },
+  {
+    "category": "Umum",
+    "instruction": "Buat FAQ: di halaman mana melihat langkah teknis pendaftaran untuk semua program.",
+    "input": "FAQ halaman untuk melihat langkah teknis pendaftaran",
+    "output": "Langkah teknis pendaftaran untuk semua program dijelaskan pada halaman 'Alur Pendaftaran' di pmb.uajy.ac.id."
+  },
+  {
+    "category": "Umum",
+    "instruction": "Buat FAQ: di halaman mana melihat informasi khusus S3.",
+    "input": "FAQ halaman untuk melihat informasi khusus S3",
+    "output": "Informasi khusus Program Doktor (S3) tersedia di halaman 'Informasi Program Doktor' atau 'infoS3' di situs PMB UAJY."
+  },
+  {
+    "category": "Umum",
+    "instruction": "Buat FAQ: di halaman mana melihat informasi khusus Pendidikan Profesi.",
+    "input": "FAQ halaman untuk melihat informasi khusus Pendidikan Profesi",
+    "output": "Informasi khusus Pendidikan Profesi (misalnya PPAr) tersedia di halaman 'Informasi Pendidikan Profesi' atau 'InfoPR' pada situs PMB UAJY."
+  },
+  {
+    "category": "Umum",
+    "instruction": "Buat paragraf pendek yang menjelaskan hubungan antara empat halaman ini sebagai satu rangkaian informasi.",
+    "input": "Hubungan empat halaman sebagai rangkaian informasi",
+    "output": "Empat halaman tersebut saling melengkapi: infoS3 dan InfoPR menjelaskan isi program dan persyaratan; Cara Pembayaran menjelaskan cara membayar biaya pendaftaran; dan Alur Pendaftaran menjelaskan prosedur teknis di sistem. Dengan membaca semuanya, calon mahasiswa memperoleh gambaran utuh tentang bagaimana mendaftar ke UAJY."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Jawablah pertanyaan berikut sebagai layanan tanya jawab resmi PMB UAJY.",
+    "input": "Apa saja jenjang pendidikan yang tersedia di Universitas Atma Jaya Yogyakarta?",
+    "output": "Universitas Atma Jaya Yogyakarta menyediakan jenjang pendidikan Sarjana (S1), Magister (S2), Doktor (S3), serta beberapa program profesi sesuai bidang keilmuannya."
+  },
+  {
+    "category": "S1",
+    "instruction": "Berikan jawaban informatif terkait pilihan jenjang studi di UAJY.",
+    "input": "Apakah UAJY menyediakan program Sarjana?",
+    "output": "Ya, Universitas Atma Jaya Yogyakarta menyediakan berbagai program Sarjana (S1) di berbagai bidang ilmu."
+  },
+  {
+    "category": "S2",
+    "instruction": "Tanggapi pertanyaan pengguna mengenai program pascasarjana di UAJY.",
+    "input": "Apakah UAJY memiliki program pascasarjana?",
+    "output": "Ya, UAJY memiliki program pascasarjana yang meliputi program Magister (S2) dan Doktor (S3)."
+  },
+  {
+    "category": "Prodi",
+    "instruction": "Jawab pertanyaan berikut dengan merujuk pada informasi resmi PMB UAJY.",
+    "input": "Bagaimana cara mengetahui daftar program studi di UAJY?",
+    "output": "Daftar program studi di Universitas Atma Jaya Yogyakarta dapat dilihat melalui halaman Program Studi pada situs resmi PMB UAJY."
+  },
+  {
+    "category": "Prodi",
+    "instruction": "Berikan klarifikasi akademik terkait struktur fakultas dan program studi.",
+    "input": "Apakah setiap program studi di UAJY berada di bawah fakultas tertentu?",
+    "output": "Ya, setiap program studi di Universitas Atma Jaya Yogyakarta berada di bawah fakultas yang sesuai dengan bidang keilmuannya."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Jawablah pertanyaan ini sebagai asisten akademik PMB UAJY.",
+    "input": "Apakah UAJY menyediakan program profesi?",
+    "output": "Ya, selain program akademik, Universitas Atma Jaya Yogyakarta juga menyediakan beberapa program profesi sesuai kebutuhan bidang tertentu."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Berikan penjelasan singkat terkait kebijakan informasi akademik UAJY.",
+    "input": "Apakah informasi program studi di UAJY dapat berubah?",
+    "output": "Ya, informasi program studi dapat diperbarui sesuai kebijakan universitas dan kebutuhan akademik."
+  },
+  {
+    "category": "Prodi",
+    "instruction": "Tanggapi pertanyaan calon mahasiswa tentang bidang studi teknologi di UAJY.",
+    "input": "Apakah UAJY menyediakan program studi di bidang teknologi?",
+    "output": "Ya, Universitas Atma Jaya Yogyakarta menyediakan beberapa program studi yang berkaitan dengan bidang teknologi dan rekayasa."
+  },
+  {
+    "category": "Prodi",
+    "instruction": "Jawab pertanyaan berikut secara ringkas dan informatif.",
+    "input": "Apakah UAJY memiliki program studi di bidang sosial dan humaniora?",
+    "output": "Ya, UAJY memiliki program studi di bidang sosial, humaniora, ekonomi, dan ilmu komunikasi."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Berikan jawaban sesuai alur pendaftaran mahasiswa baru UAJY.",
+    "input": "Apakah calon mahasiswa dapat memilih program studi saat pendaftaran?",
+    "output": "Ya, calon mahasiswa dapat memilih program studi yang diminati saat melakukan pendaftaran di PMB UAJY."
+  },
+  {
+    "category": "Beasiswa",
+    "instruction": "Jawablah pertanyaan berikut terkait informasi beasiswa di UAJY.",
+    "input": "Apa saja jenis beasiswa yang tersedia di Universitas Atma Jaya Yogyakarta?",
+    "output": "Universitas Atma Jaya Yogyakarta menyediakan berbagai jenis beasiswa, seperti beasiswa prestasi, beasiswa "
+  },
+  {
+    "category": "Beasiswa",
+    "instruction": "Jawablah pertanyaan pengguna terkait ketersediaan beasiswa bagi mahasiswa baru di UAJY.",
+    "input": "Apakah UAJY menyediakan beasiswa untuk mahasiswa baru?",
+    "output": "Ya, UAJY menyediakan beberapa program beasiswa yang dapat diikuti oleh mahasiswa baru."
+  },
+  {
+    "category": "Beasiswa",
+    "instruction": "Berikan penjelasan mengenai tujuan utama penyelenggaraan beasiswa di UAJY.",
+    "input": "Apa tujuan utama program beasiswa di UAJY?",
+    "output": "Tujuan utama program beasiswa di UAJY adalah membantu mahasiswa berprestasi dan mahasiswa yang membutuhkan dukungan finansial agar dapat menyelesaikan studi."
+  },
+  {
+    "category": "Beasiswa",
+    "instruction": "Tanggapi pertanyaan mengenai cakupan jenjang pendidikan penerima beasiswa UAJY.",
+    "input": "Apakah beasiswa di UAJY hanya untuk mahasiswa Sarjana?",
+    "output": "Tidak, selain untuk Sarjana, Universitas Atma Jaya Yogyakarta juga menyediakan beasiswa untuk jenjang Magister."
+  },
+  {
+    "category": "Beasiswa",
+    "instruction": "Jelaskan kepada calon mahasiswa mengenai pengertian Beasiswa PSSB di UAJY.",
+    "input": "Apa itu Beasiswa Program Seleksi Siswa Berprestasi (PSSB)?",
+    "output": "Beasiswa PSSB adalah program beasiswa bagi calon mahasiswa berprestasi akademik yang memberikan bantuan biaya pendidikan sesuai ketentuan yang berlaku."
+  },
+  {
+    "category": "Beasiswa",
+    "instruction": "Jawablah pertanyaan tentang ketentuan dan persyaratan beasiswa UAJY.",
+    "input": "Apakah beasiswa di UAJY memiliki persyaratan tertentu?",
+    "output": "Ya, setiap program beasiswa di UAJY memiliki persyaratan akademik dan administratif yang harus dipenuhi oleh pendaftar."
+  },
+  {
+    "category": "Beasiswa",
+    "instruction": "Berikan informasi lokasi resmi untuk mengakses detail beasiswa UAJY.",
+    "input": "Di mana calon mahasiswa bisa melihat informasi beasiswa UAJY?",
+    "output": "Informasi beasiswa UAJY dapat dilihat melalui halaman Informasi Beasiswa pada situs resmi PMB UAJY."
+  },
+  {
+    "category": "Biaya",
+    "instruction": "Jawab pertanyaan pengguna terkait perbedaan biaya kuliah antar jenjang pendidikan.",
+    "input": "Apakah biaya kuliah di UAJY sama untuk semua jenjang?",
+    "output": "Tidak, biaya kuliah di Universitas Atma Jaya Yogyakarta berbeda untuk jenjang Sarjana, Magister, dan Doktor."
+  },
+  {
+    "category": "Biaya",
+    "instruction": "Jelaskan faktor-faktor yang memengaruhi penetapan biaya kuliah di UAJY.",
+    "input": "Faktor apa yang memengaruhi besaran biaya kuliah di UAJY?",
+    "output": "Besaran biaya kuliah dipengaruhi oleh jenjang pendidikan, program studi, dan jalur penerimaan mahasiswa."
+  },
+  {
+    "category": "Biaya",
+    "instruction": "Tanggapi pertanyaan mengenai kemungkinan perubahan biaya kuliah di UAJY.",
+    "input": "Apakah biaya kuliah UAJY dapat berubah setiap tahun?",
+    "output": "Ya, biaya kuliah di Universitas Atma Jaya Yogyakarta dapat mengalami perubahan sesuai kebijakan universitas."
+  },
+  {
+    "category": "Biaya",
+    "instruction": "Berikan klarifikasi mengenai perbedaan biaya kuliah antar program studi.",
+    "input": "Apakah biaya kuliah berbeda antar program studi?",
+    "output": "Ya, biaya kuliah dapat berbeda antar program studi sesuai kebijakan yang berlaku."
+  },
+  {
+    "category": "Biaya",
+    "instruction": "Jawablah pertanyaan tentang ketersediaan informasi biaya sebelum pendaftaran.",
+    "input": "Apakah informasi biaya kuliah tersedia sebelum pendaftaran?",
+    "output": "Ya, calon mahasiswa dapat mengakses informasi biaya kuliah sebelum melakukan pendaftaran."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Berikan konfirmasi mengenai akses daring informasi PMB UAJY.",
+    "input": "Apakah informasi PMB UAJY tersedia secara online?",
+    "output": "Ya, seluruh informasi PMB Universitas Atma Jaya Yogyakarta tersedia secara online melalui situs resmi PMB."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Tanggapi pertanyaan terkait kebutuhan kunjungan langsung ke kampus.",
+    "input": "Apakah calon mahasiswa harus datang ke kampus untuk mendapatkan informasi PMB?",
+    "output": "Tidak, calon mahasiswa dapat memperoleh informasi PMB secara daring tanpa harus datang langsung ke kampus."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Jawab pertanyaan tentang sistem penyajian informasi PMB UAJY.",
+    "input": "Apakah situs PMB UAJY menyediakan informasi terpusat?",
+    "output": "Ya, situs PMB UAJY menyediakan informasi terpusat mengenai program studi, beasiswa, dan biaya kuliah."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Berikan penjelasan mengenai target utama pengguna informasi PMB UAJY.",
+    "input": "Apakah informasi PMB UAJY ditujukan untuk calon mahasiswa baru?",
+    "output": "Ya, informasi PMB UAJY ditujukan terutama untuk calon mahasiswa baru."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Tanggapi pertanyaan mengenai keandalan informasi PMB UAJY.",
+    "input": "Apakah informasi PMB UAJY dapat diandalkan?",
+    "output": "Ya, informasi PMB UAJY merupakan informasi resmi yang dapat diandalkan oleh calon mahasiswa."
+  },
+  {
+    "category": "S2",
+    "instruction": "Jawablah pertanyaan mengenai ketersediaan informasi PMB jenjang Magister.",
+    "input": "Apakah UAJY menyediakan informasi PMB untuk jenjang S2?",
+    "output": "Ya, UAJY menyediakan informasi PMB untuk jenjang Magister (S2)."
+  },
+  {
+    "category": "Biaya",
+    "instruction": "Tanggapi pertanyaan tentang pengaruh jalur masuk terhadap biaya kuliah.",
+    "input": "Apakah biaya kuliah dapat dipengaruhi oleh jalur masuk?",
+    "output": "Ya, biaya kuliah dapat dipengaruhi oleh jalur masuk yang dipilih oleh calon mahasiswa."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Berikan klarifikasi mengenai status keabsahan informasi PMB UAJY.",
+    "input": "Apakah informasi PMB UAJY bersifat resmi?",
+    "output": "Ya, informasi yang disajikan di situs PMB UAJY merupakan informasi resmi dari Universitas Atma Jaya Yogyakarta."
+  },
+  {
+    "category": "Beasiswa",
+    "instruction": "Jawablah pertanyaan terkait komitmen UAJY terhadap akses pendidikan.",
+    "input": "Apakah UAJY mendukung akses pendidikan melalui beasiswa?",
+    "output": "Ya, UAJY mendukung akses pendidikan melalui berbagai program beasiswa yang tersedia."
+  },
+  {
+    "category": "Biaya",
+    "instruction": "Tanggapi pertanyaan mengenai kesiapan finansial calon mahasiswa.",
+    "input": "Apakah calon mahasiswa bisa mempersiapkan biaya studi sejak awal?",
+    "output": "Ya, dengan informasi biaya studi yang tersedia, calon mahasiswa dapat mempersiapkan biaya pendidikan sejak awal."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Berikan penjelasan mengenai fungsi informasi PMB sebagai referensi pendaftaran.",
+    "input": "Apakah informasi PMB UAJY dapat digunakan sebagai referensi pendaftaran?",
+    "output": "Ya, informasi PMB UAJY dapat digunakan sebagai referensi utama dalam proses pendaftaran mahasiswa baru."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Jawab pertanyaan tentang kelayakan data PMB sebagai dataset tanya jawab.",
+    "input": "Apakah data PMB UAJY cocok digunakan untuk dataset tanya jawab?",
+    "output": "Ya, data PMB UAJY cocok digunakan sebagai dataset tanya jawab karena informasinya jelas, konsisten, dan terstruktur."
+  },
+  {
+    "category": "Prodi",
+    "instruction": "Tanggapi pertanyaan mengenai jumlah program studi di tingkat fakultas.",
+    "input": "Apakah setiap fakultas di UAJY memiliki lebih dari satu program studi?",
+    "output": "Ya, sebagian besar fakultas di Universitas Atma Jaya Yogyakarta menaungi lebih dari satu program studi sesuai bidang keilmuannya."
+  },
+  {
+    "category": "Prodi",
+    "instruction": "Berikan saran informatif terkait perbandingan program studi sebelum mendaftar.",
+    "input": "Apakah calon mahasiswa bisa membandingkan program studi sebelum mendaftar?",
+    "output": "Ya, calon mahasiswa disarankan membandingkan program studi berdasarkan minat, prospek, dan kurikulum sebelum mendaftar."
+  },
+  {
+    "category": "Prodi",
+    "instruction": "Jawablah pertanyaan tentang keberadaan program studi sains dan teknik di UAJY.",
+    "input": "Apakah UAJY memiliki program studi berbasis sains dan teknik?",
+    "output": "Ya, UAJY memiliki program studi berbasis sains, teknik, dan rekayasa yang mendukung perkembangan teknologi."
+  },
+  {
+    "category": "Prodi",
+    "instruction": "Tanggapi pertanyaan mengenai ketersediaan program studi bidang ekonomi dan bisnis.",
+    "input": "Apakah tersedia program studi di bidang bisnis dan ekonomi di UAJY?",
+    "output": "Ya, UAJY menyediakan program studi di bidang ekonomi, manajemen, dan bisnis."
+  },
+  {
+    "category": "Prodi",
+    "instruction": "Berikan klarifikasi terkait status akreditasi program studi UAJY.",
+    "input": "Apakah program studi di UAJY telah terakreditasi?",
+    "output": "Ya, seluruh program studi di UAJY telah memiliki status akreditasi sesuai ketentuan yang berlaku."
+  },
+  {
+    "category": "Prodi",
+    "instruction": "Jawablah pertanyaan tentang aksesibilitas informasi program studi UAJY.",
+    "input": "Apakah informasi program studi dapat diakses tanpa login?",
+    "output": "Ya, informasi program studi UAJY dapat diakses secara terbuka melalui situs PMB."
+  },
+  {
+    "category": "Prodi",
+    "instruction": "Tanggapi pertanyaan mengenai pendekatan lintas disiplin dalam program studi.",
+    "input": "Apakah UAJY menyediakan program lintas disiplin ilmu?",
+    "output": "Beberapa program studi di UAJY mendukung pendekatan lintas disiplin melalui kurikulum dan mata kuliah pilihan."
+  },
+  {
+    "category": "Prodi",
+    "instruction": "Berikan penjelasan terkait status pendaftaran mahasiswa baru pada program studi.",
+    "input": "Apakah mahasiswa baru langsung terdaftar pada program studi tertentu?",
+    "output": "Ya, sejak awal pendaftaran mahasiswa sudah terdaftar pada program studi yang dipilih."
+  },
+  {
+    "category": "Biaya",
+    "instruction": "Jawablah pertanyaan tentang struktur komponen biaya kuliah UAJY.",
+    "input": "Apakah biaya kuliah di UAJY terdiri dari beberapa komponen?",
+    "output": "Ya, biaya kuliah di UAJY terdiri dari beberapa komponen sesuai kebijakan universitas."
+  },
+  {
+    "category": "Biaya",
+    "instruction": "Tanggapi pertanyaan mengenai gambaran biaya studi sebelum daftar ulang.",
+    "input": "Apakah calon mahasiswa mendapatkan gambaran biaya studi sebelum daftar ulang?",
+    "output": "Ya, calon mahasiswa dapat melihat estimasi biaya studi sebelum melakukan daftar ulang."
+  },
+  {
+    "category": "Biaya",
+    "instruction": "Berikan jawaban terkait transparansi penetapan biaya kuliah di UAJY.",
+    "input": "Apakah biaya kuliah UAJY bersifat transparan?",
+    "output": "Ya, UAJY menyajikan informasi biaya kuliah secara terbuka melalui situs resmi PMB."
+  },
+  {
+    "category": "Biaya",
+    "instruction": "Jawablah pertanyaan mengenai dasar penentuan biaya pendidikan di UAJY.",
+    "input": "Apakah biaya pendidikan ditentukan berdasarkan program studi?",
+    "output": "Ya, besaran biaya pendidikan ditentukan berdasarkan program studi dan jenjang pendidikan."
+  },
+  {
+    "category": "Biaya",
+    "instruction": "Tanggapi pertanyaan tentang perbedaan skema biaya mahasiswa baru dan lama.",
+    "input": "Apakah terdapat perbedaan biaya antara mahasiswa baru dan mahasiswa lama?",
+    "output": "Skema biaya ditetapkan saat awal masuk dan mengikuti ketentuan yang berlaku bagi mahasiswa tersebut."
+  },
+  {
+    "category": "Biaya",
+    "instruction": "Berikan penjelasan terkait pengaruh jalur seleksi terhadap biaya kuliah.",
+    "input": "Apakah biaya kuliah dapat dipengaruhi oleh jalur seleksi?",
+    "output": "Ya, jalur seleksi masuk dapat memengaruhi komponen biaya yang dikenakan."
+  },
+  {
+    "category": "Biaya",
+    "instruction": "Jawablah pertanyaan mengenai ketersediaan panduan pembayaran biaya kuliah.",
+    "input": "Apakah UAJY menyediakan panduan pembayaran biaya kuliah?",
+    "output": "Ya, panduan pembayaran biaya kuliah disediakan untuk membantu mahasiswa memahami proses pembayaran."
+  },
+  {
+    "category": "Biaya",
+    "instruction": "Tanggapi pertanyaan tentang mekanisme pembayaran biaya kuliah.",
+    "input": "Apakah pembayaran biaya kuliah dilakukan secara bertahap?",
+    "output": "Pembayaran biaya kuliah mengikuti ketentuan dan mekanisme yang telah ditetapkan oleh universitas."
+  },
+  {
+    "category": "Beasiswa",
+    "instruction": "Berikan jawaban terkait tujuan beasiswa dalam mendukung prestasi akademik.",
+    "input": "Apakah beasiswa di UAJY ditujukan untuk mendukung prestasi akademik?",
+    "output": "Ya, salah satu tujuan beasiswa UAJY adalah mendukung mahasiswa dengan prestasi akademik yang baik."
+  },
+  {
+    "category": "Beasiswa",
+    "instruction": "Jawablah pertanyaan mengenai bentuk bantuan finansial yang disediakan UAJY.",
+    "input": "Apakah UAJY menyediakan bantuan finansial bagi mahasiswa berpotensi?",
+    "output": "Ya, UAJY menyediakan berbagai skema bantuan finansial melalui program beasiswa."
+  },
+  {
+    "category": "Beasiswa",
+    "instruction": "Tanggapi pertanyaan terkait jadwal pendaftaran program beasiswa.",
+    "input": "Apakah pendaftaran beasiswa memiliki jadwal tertentu?",
+    "output": "Ya, setiap program beasiswa memiliki jadwal pendaftaran yang ditentukan."
+  },
+  {
+    "category": "Beasiswa",
+    "instruction": "Berikan penjelasan mengenai kriteria penerima beasiswa UAJY.",
+    "input": "Apakah mahasiswa harus memenuhi kriteria tertentu untuk beasiswa?",
+    "output": "Ya, setiap beasiswa memiliki kriteria akademik dan administratif yang harus dipenuhi."
+  },
+  {
+    "category": "Beasiswa",
+    "instruction": "Jawablah pertanyaan tentang proses seleksi penerima beasiswa di UAJY.",
+    "input": "Bagaimana proses seleksi penerima beasiswa di UAJY?",
+    "output": "Proses seleksi penerima beasiswa melibatkan evaluasi akademik dan administratif sesuai ketentuan program beasiswa."
+  },
+  {
+    "category": "Beasiswa",
+    "instruction": "Jawablah pertanyaan tentang akses informasi beasiswa bagi calon mahasiswa.",
+    "input": "Apakah informasi beasiswa dapat diakses sebelum resmi menjadi mahasiswa?",
+    "output": "Ya, informasi beasiswa dapat diakses oleh calon mahasiswa sebelum proses registrasi."
+  },
+  {
+    "category": "Beasiswa",
+    "instruction": "Tanggapi pertanyaan mengenai cakupan bantuan biaya dalam program beasiswa.",
+    "input": "Apakah beasiswa UAJY mencakup bantuan biaya pendidikan?",
+    "output": "Sebagian beasiswa di UAJY mencakup bantuan biaya pendidikan sesuai ketentuan program."
+  },
+  {
+    "category": "Beasiswa",
+    "instruction": "Berikan klarifikasi tentang kerja sama eksternal dalam program beasiswa.",
+    "input": "Apakah UAJY bekerja sama dengan pihak eksternal dalam beasiswa?",
+    "output": "Ya, beberapa program beasiswa UAJY berasal dari kerja sama dengan mitra eksternal."
+  },
+  {
+    "category": "Beasiswa",
+    "instruction": "Jawablah pertanyaan mengenai manfaat beasiswa terhadap biaya kuliah.",
+    "input": "Apakah beasiswa dapat membantu meringankan beban biaya kuliah?",
+    "output": "Ya, beasiswa dirancang untuk membantu meringankan beban biaya pendidikan mahasiswa."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Tanggapi pertanyaan tentang integrasi informasi PMB dalam satu portal.",
+    "input": "Apakah semua informasi PMB UAJY terintegrasi dalam satu website?",
+    "output": "Ya, seluruh informasi PMB UAJY terintegrasi dalam satu portal resmi."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Berikan jawaban terkait pembaruan konten pada website PMB UAJY.",
+    "input": "Apakah website PMB UAJY diperbarui secara berkala?",
+    "output": "Ya, informasi pada website PMB UAJY diperbarui secara berkala sesuai kebijakan universitas."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Jawablah pertanyaan mengenai peran informasi PMB dalam perencanaan studi.",
+    "input": "Apakah calon mahasiswa dapat merencanakan studi dari informasi PMB?",
+    "output": "Ya, informasi PMB membantu calon mahasiswa merencanakan studi dan pembiayaan."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Tanggapi pertanyaan terkait keabsahan dan validitas informasi PMB.",
+    "input": "Apakah PMB UAJY menyediakan informasi resmi dan valid?",
+    "output": "Ya, seluruh informasi PMB UAJY merupakan informasi resmi dan dapat dijadikan rujukan."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Berikan penilaian terkait kecocokan PMB sebagai basis chatbot akademik.",
+    "input": "Apakah dataset PMB UAJY cocok untuk chatbot akademik?",
+    "output": "Ya, informasi PMB UAJY sangat cocok digunakan sebagai basis chatbot akademik."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Jawablah pertanyaan tentang kelengkapan gambaran studi dari PMB.",
+    "input": "Apakah calon mahasiswa bisa mendapatkan gambaran studi secara menyeluruh?",
+    "output": "Ya, melalui PMB UAJY calon mahasiswa dapat memperoleh gambaran studi secara menyeluruh."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Tanggapi pertanyaan mengenai peran PMB dalam pengambilan keputusan akademik.",
+    "input": "Apakah informasi PMB membantu pengambilan keputusan studi?",
+    "output": "Ya, informasi PMB membantu calon mahasiswa dalam mengambil keputusan akademik."
+  },
+  {
+    "category": "Prodi",
+    "instruction": "Berikan jawaban tentang waktu penentuan bidang studi oleh calon mahasiswa.",
+    "input": "Apakah calon mahasiswa dapat memilih bidang studi sesuai minat sejak awal?",
+    "output": "Ya, sejak proses pendaftaran calon mahasiswa sudah menentukan bidang studi yang sesuai dengan minatnya."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Jawablah pertanyaan terkait dukungan informasi untuk perencanaan studi jangka panjang.",
+    "input": "Apakah UAJY menyediakan informasi akademik untuk perencanaan studi jangka panjang?",
+    "output": "Ya, informasi akademik UAJY dapat membantu calon mahasiswa merencanakan studi jangka panjang."
+  },
+  {
+    "category": "Biaya",
+    "instruction": "Tanggapi pertanyaan tentang kejelasan struktur biaya kuliah di PMB.",
+    "input": "Apakah struktur biaya kuliah dijelaskan secara rinci di PMB UAJY?",
+    "output": "Ya, struktur biaya kuliah dijelaskan secara informatif agar mudah dipahami calon mahasiswa."
+  },
+  {
+    "category": "Biaya",
+    "instruction": "Berikan penjelasan mengenai waktu penetapan biaya pendidikan UAJY.",
+    "input": "Apakah biaya pendidikan di UAJY ditetapkan sebelum perkuliahan dimulai?",
+    "output": "Ya, biaya pendidikan ditetapkan sebelum perkuliahan dimulai sesuai ketentuan universitas."
+  },
+  {
+    "category": "Beasiswa",
+    "instruction": "Jawablah pertanyaan terkait dukungan finansial non-akademik di UAJY.",
+    "input": "Apakah UAJY memberikan dukungan finansial berbasis prestasi non-akademik?",
+    "output": "Ya, UAJY juga menyediakan dukungan finansial bagi mahasiswa dengan prestasi non-akademik tertentu."
+  },
+  {
+    "category": "Beasiswa",
+    "instruction": "Tanggapi pertanyaan mengenai pembaruan informasi beasiswa setiap periode.",
+    "input": "Apakah informasi beasiswa UAJY diperbarui setiap periode penerimaan?",
+    "output": "Ya, informasi beasiswa diperbarui mengikuti periode penerimaan mahasiswa baru."
+  },
+  {
+    "category": "Biaya",
+    "instruction": "Berikan jawaban tentang penyesuaian pilihan studi dengan kondisi finansial.",
+    "input": "Apakah calon mahasiswa dapat menyesuaikan pilihan studi dengan kemampuan finansial?",
+    "output": "Ya, informasi biaya dan beasiswa membantu calon mahasiswa menyesuaikan pilihan studi dengan kemampuan finansial."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Jawablah pertanyaan mengenai ketersediaan panduan umum bagi pendaftar.",
+    "input": "Apakah PMB UAJY menyediakan panduan umum bagi pendaftar baru?",
+    "output": "Ya, PMB UAJY menyediakan panduan umum untuk membantu pendaftar baru memahami alur penerimaan."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Tanggapi pertanyaan tentang fungsi PMB sebagai referensi resmi institusi.",
+    "input": "Apakah informasi PMB UAJY dapat digunakan sebagai referensi resmi institusi?",
+    "output": "Ya, informasi PMB UAJY merupakan referensi resmi dari institusi."
+  },
+  {
+    "category": "Beasiswa",
+    "instruction": "Berikan jawaban terkait peran beasiswa dalam pemerataan pendidikan.",
+    "input": "Apakah UAJY mendorong pemerataan akses pendidikan melalui program beasiswa?",
+    "output": "Ya, UAJY mendorong pemerataan akses pendidikan melalui berbagai program beasiswa."
+  },
+  {
+    "category": "Biaya",
+    "instruction": "Jawablah pertanyaan tentang estimasi biaya studi selama masa perkuliahan.",
+    "input": "Apakah calon mahasiswa dapat memperoleh gambaran biaya selama masa studi?",
+    "output": "Ya, calon mahasiswa dapat memperoleh gambaran umum biaya selama masa studi melalui PMB UAJY."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Tanggapi pertanyaan mengenai kemudahan pemahaman informasi PMB.",
+    "input": "Apakah informasi PMB UAJY dirancang untuk mudah dipahami?",
+    "output": "Ya, informasi PMB UAJY dirancang agar mudah dipahami oleh calon mahasiswa."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Berikan jawaban terkait fleksibilitas waktu akses informasi PMB.",
+    "input": "Apakah calon mahasiswa dapat mengakses informasi PMB kapan saja?",
+    "output": "Ya, informasi PMB UAJY dapat diakses kapan saja secara online."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Jawablah pertanyaan mengenai dukungan informasi terhadap keputusan akademik.",
+    "input": "Apakah UAJY menyediakan informasi yang mendukung keputusan akademik?",
+    "output": "Ya, informasi yang disediakan mendukung calon mahasiswa dalam mengambil keputusan akademik."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Tanggapi pertanyaan tentang kecocokan PMB sebagai sumber data chatbot.",
+    "input": "Apakah PMB UAJY cocok dijadikan sumber data chatbot pendidikan?",
+    "output": "Ya, PMB UAJY cocok dijadikan sumber data untuk chatbot pendidikan."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Berikan jawaban mengenai pemahaman sistem PMB tanpa kunjungan kampus.",
+    "input": "Apakah calon mahasiswa dapat memahami sistem PMB tanpa datang ke kampus?",
+    "output": "Ya, seluruh sistem PMB dapat dipahami tanpa harus datang langsung ke kampus."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Jawablah pertanyaan tentang peran PMB dalam kesiapan calon mahasiswa.",
+    "input": "Apakah informasi PMB membantu calon mahasiswa menyiapkan diri sebelum kuliah?",
+    "output": "Ya, informasi PMB membantu calon mahasiswa menyiapkan diri sebelum memasuki perkuliahan."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Tanggapi pertanyaan mengenai informasi perkuliahan bagi mahasiswa baru.",
+    "input": "Apakah UAJY menyediakan informasi perkuliahan untuk calon mahasiswa baru?",
+    "output": "Ya, UAJY menyediakan informasi perkuliahan sebagai gambaran awal bagi calon mahasiswa baru."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Berikan jawaban tentang pemahaman sistem akademik melalui PMB.",
+    "input": "Apakah calon mahasiswa dapat mengetahui sistem akademik melalui PMB UAJY?",
+    "output": "Ya, sistem akademik dijelaskan secara umum melalui informasi PMB UAJY."
+  },
+  {
+    "category": "Prodi",
+    "instruction": "Jawablah pertanyaan terkait relevansi kurikulum dengan dunia kerja.",
+    "input": "Apakah program studi di UAJY dirancang sesuai kebutuhan dunia kerja?",
+    "output": "Program studi di UAJY dirancang untuk membekali mahasiswa dengan kompetensi sesuai kebutuhan dunia kerja."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Tanggapi pertanyaan mengenai tahapan setelah calon mahasiswa diterima.",
+    "input": "Apakah PMB UAJY menjelaskan tahapan setelah dinyatakan diterima?",
+    "output": "Ya, PMB UAJY menyediakan informasi mengenai tahapan yang perlu dilakukan setelah dinyatakan diterima."
+  },
+  {
+    "category": "Biaya",
+    "instruction": "Berikan jawaban terkait ketersediaan informasi biaya sebelum registrasi ulang.",
+    "input": "Apakah biaya pendidikan di UAJY diinformasikan sebelum proses registrasi ulang?",
+    "output": "Ya, informasi biaya pendidikan tersedia sebelum proses registrasi ulang dilakukan."
+  },
+  {
+    "category": "Biaya",
+    "instruction": "Jawablah pertanyaan mengenai informasi pembiayaan bagi orang tua mahasiswa.",
+    "input": "Apakah UAJY menyediakan informasi pembiayaan bagi orang tua mahasiswa?",
+    "output": "Ya, informasi pembiayaan disediakan agar dapat dipahami oleh calon mahasiswa dan orang tua."
+  },
+  {
+    "category": "Beasiswa",
+    "instruction": "Tanggapi pertanyaan tentang peran beasiswa dalam keberlanjutan studi.",
+    "input": "Apakah beasiswa di UAJY dapat membantu keberlanjutan studi mahasiswa?",
+    "output": "Ya, beasiswa di UAJY bertujuan mendukung keberlanjutan studi mahasiswa."
+  },
+  {
+    "category": "Beasiswa",
+    "instruction": "Berikan jawaban terkait beasiswa berbasis kondisi ekonomi.",
+    "input": "Apakah terdapat beasiswa yang mempertimbangkan kondisi ekonomi?",
+    "output": "Ya, beberapa program beasiswa mempertimbangkan kondisi ekonomi calon mahasiswa."
+  },
+  {
+    "category": "Beasiswa",
+    "instruction": "Jawablah pertanyaan mengenai fungsi informasi beasiswa untuk perencanaan finansial.",
+    "input": "Apakah informasi beasiswa dapat digunakan untuk perencanaan finansial?",
+    "output": "Ya, informasi beasiswa dapat membantu perencanaan finansial sebelum memulai studi."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Tanggapi pertanyaan tentang gambaran fasilitas akademik dari PMB.",
+    "input": "Apakah PMB UAJY memberikan gambaran umum tentang fasilitas akademik?",
+    "output": "Ya, PMB UAJY memberikan gambaran umum mengenai fasilitas akademik yang tersedia."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Berikan jawaban terkait pemahaman hak dan kewajiban akademik.",
+    "input": "Apakah calon mahasiswa dapat memahami hak dan kewajiban akademik sejak awal?",
+    "output": "Ya, informasi PMB membantu calon mahasiswa memahami hak dan kewajiban akademik."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Jawablah pertanyaan mengenai sasaran lulusan SMA dalam informasi PMB.",
+    "input": "Apakah informasi PMB UAJY ditujukan untuk lulusan SMA dan sederajat?",
+    "output": "Ya, informasi PMB UAJY ditujukan bagi lulusan SMA atau sederajat yang ingin melanjutkan studi."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Tanggapi pertanyaan tentang dukungan PMB terhadap transisi ke dunia kampus.",
+    "input": "Apakah PMB UAJY menyediakan informasi yang mendukung transisi ke dunia kampus?",
+    "output": "Ya, informasi PMB mendukung calon mahasiswa dalam transisi ke dunia kampus."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Berikan jawaban terkait persiapan dokumen melalui informasi PMB.",
+    "input": "Apakah calon mahasiswa dapat mempersiapkan dokumen sejak awal melalui PMB?",
+    "output": "Ya, PMB UAJY membantu calon mahasiswa mengetahui dokumen yang perlu dipersiapkan."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Jawablah pertanyaan tentang sistematika penyajian informasi PMB.",
+    "input": "Apakah informasi PMB UAJY disusun secara sistematis?",
+    "output": "Ya, informasi PMB UAJY disusun secara sistematis agar mudah dipahami."
+  },
+  {
+    "category": "Beasiswa",
+    "instruction": "Tanggapi pertanyaan mengenai alternatif dukungan pendidikan selain beasiswa.",
+    "input": "Apakah UAJY menyediakan jalur bantuan pendidikan selain beasiswa?",
+    "output": "Selain beasiswa, UAJY juga menyediakan skema dukungan pendidikan sesuai kebijakan yang berlaku."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Berikan jawaban terkait fungsi PMB sebagai sumber data akademik.",
+    "input": "Apakah PMB UAJY dapat dijadikan sumber data akademik institusi?",
+    "output": "Ya, PMB UAJY dapat dijadikan sumber data akademik resmi institusi."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Jawablah pertanyaan mengenai peran PMB dalam memahami awal perkuliahan.",
+    "input": "Apakah informasi PMB membantu calon mahasiswa memahami proses awal perkuliahan?",
+    "output": "Ya, informasi PMB membantu calon mahasiswa memahami proses awal perkuliahan."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Jawablah pertanyaan seputar transparansi informasi PMB UAJY.",
+    "input": "Apakah PMB UAJY mendukung keterbukaan informasi pendidikan?",
+    "output": "Ya, PMB UAJY mendukung keterbukaan informasi pendidikan bagi masyarakat."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Berikan jawaban terkait pemanfaatan data PMB untuk sistem otomatis.",
+    "input": "Apakah informasi PMB UAJY relevan untuk pengembangan sistem tanya jawab otomatis?",
+    "output": "Ya, informasi PMB UAJY relevan untuk pengembangan sistem tanya jawab otomatis."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Jelaskan informasi awal yang diberikan UAJY kepada calon mahasiswa.",
+    "input": "Apakah UAJY menyediakan informasi awal bagi calon mahasiswa sebelum mendaftar?",
+    "output": "Ya, UAJY menyediakan informasi awal untuk membantu calon mahasiswa memahami pilihan studi sebelum mendaftar."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Jawab pertanyaan mengenai gambaran proses perkuliahan di UAJY.",
+    "input": "Apakah calon mahasiswa dapat mengetahui gambaran proses perkuliahan melalui PMB?",
+    "output": "Ya, PMB UAJY memberikan gambaran umum proses perkuliahan kepada calon mahasiswa."
+  },
+  {
+    "category": "Prodi",
+    "instruction": "Sampaikan informasi terkait kurikulum program studi UAJY.",
+    "input": "Apakah UAJY menyediakan informasi terkait kurikulum program studi?",
+    "output": "Ya, UAJY menyediakan informasi umum terkait kurikulum setiap program studi."
+  },
+  {
+    "category": "Biaya",
+    "instruction": "Berikan jawaban tentang keterbukaan biaya pendidikan UAJY.",
+    "input": "Apakah biaya pendidikan diinformasikan secara terbuka oleh UAJY?",
+    "output": "Ya, UAJY menginformasikan biaya pendidikan secara terbuka melalui PMB."
+  },
+  {
+    "category": "Biaya",
+    "instruction": "Jawab pertanyaan mengenai estimasi biaya kuliah bagi calon mahasiswa.",
+    "input": "Apakah calon mahasiswa dapat memperkirakan kebutuhan biaya kuliah sejak awal?",
+    "output": "Ya, informasi biaya membantu calon mahasiswa memperkirakan kebutuhan biaya kuliah sejak awal."
+  },
+  {
+    "category": "Biaya",
+    "instruction": "Jelaskan perbedaan biaya berdasarkan jenjang pendidikan.",
+    "input": "Apakah terdapat perbedaan biaya berdasarkan jenjang pendidikan?",
+    "output": "Ya, terdapat perbedaan biaya berdasarkan jenjang pendidikan yang ditempuh."
+  },
+  {
+    "category": "Biaya",
+    "instruction": "Sampaikan informasi pembiayaan yang dapat diakses keluarga mahasiswa.",
+    "input": "Apakah PMB UAJY menyediakan informasi pembiayaan untuk keluarga mahasiswa?",
+    "output": "Ya, informasi pembiayaan disediakan agar dapat dipahami oleh mahasiswa dan keluarganya."
+  },
+  {
+    "category": "Beasiswa",
+    "instruction": "Jawab pertanyaan tentang bantuan biaya pendidikan di UAJY.",
+    "input": "Apakah UAJY menyediakan program bantuan biaya pendidikan?",
+    "output": "Ya, UAJY menyediakan program bantuan biaya pendidikan melalui skema beasiswa."
+  },
+  {
+    "category": "Beasiswa",
+    "instruction": "Jelaskan tujuan beasiswa dalam mendukung keberhasilan studi.",
+    "input": "Apakah beasiswa di UAJY ditujukan untuk mendukung keberhasilan studi?",
+    "output": "Ya, beasiswa di UAJY ditujukan untuk mendukung keberhasilan studi mahasiswa."
+  },
+  {
+    "category": "Beasiswa",
+    "instruction": "Berikan penjelasan manfaat informasi beasiswa bagi perencanaan akademik.",
+    "input": "Apakah informasi beasiswa dapat membantu perencanaan akademik?",
+    "output": "Ya, informasi beasiswa membantu mahasiswa merencanakan studi dan pembiayaan."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Jawab pertanyaan terkait panduan akademik bagi pendaftar baru.",
+    "input": "Apakah PMB UAJY menyediakan panduan akademik bagi pendaftar baru?",
+    "output": "Ya, PMB UAJY menyediakan panduan akademik bagi pendaftar baru."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Sampaikan penjelasan tentang aksesibilitas informasi PMB.",
+    "input": "Apakah informasi PMB UAJY disusun agar mudah diakses semua kalangan?",
+    "output": "Ya, informasi PMB UAJY disusun agar mudah diakses oleh semua kalangan."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Jelaskan ketersediaan informasi alur penerimaan mahasiswa baru.",
+    "input": "Apakah calon mahasiswa dapat memahami alur penerimaan melalui PMB?",
+    "output": "Ya, alur penerimaan dijelaskan secara jelas melalui PMB UAJY."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Jawab pertanyaan mengenai transparansi akademik PMB UAJY.",
+    "input": "Apakah PMB UAJY mendukung transparansi informasi akademik?",
+    "output": "Ya, PMB UAJY mendukung transparansi informasi akademik."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Berikan jawaban tentang peran PMB dalam pengambilan keputusan studi.",
+    "input": "Apakah informasi PMB membantu calon mahasiswa mengambil keputusan studi?",
+    "output": "Ya, informasi PMB membantu calon mahasiswa mengambil keputusan studi."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Sampaikan informasi relevan bagi orang tua calon mahasiswa.",
+    "input": "Apakah UAJY menyediakan informasi yang relevan bagi orang tua calon mahasiswa?",
+    "output": "Ya, UAJY menyediakan informasi yang relevan bagi orang tua calon mahasiswa."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Jawab pertanyaan mengenai status PMB sebagai referensi resmi universitas.",
+    "input": "Apakah PMB UAJY dapat dijadikan sumber referensi resmi universitas?",
+    "output": "Ya, PMB UAJY merupakan sumber referensi resmi universitas."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Jelaskan kecocokan data PMB untuk chatbot kampus.",
+    "input": "Apakah informasi PMB UAJY cocok untuk kebutuhan chatbot kampus?",
+    "output": "Ya, informasi PMB UAJY cocok untuk kebutuhan chatbot kampus."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Berikan jawaban tentang akses PMB tanpa batas waktu.",
+    "input": "Apakah calon mahasiswa dapat mengakses PMB tanpa batasan waktu?",
+    "output": "Ya, PMB UAJY dapat diakses kapan saja secara daring."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Jelaskan peran PMB dalam mengenalkan dunia perkuliahan.",
+    "input": "Apakah PMB UAJY membantu calon mahasiswa memahami dunia perkuliahan?",
+    "output": "Ya, PMB UAJY membantu calon mahasiswa memahami dunia perkuliahan."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Jawab pertanyaan mengenai konsistensi penyajian informasi PMB.",
+    "input": "Apakah informasi PMB disajikan secara konsisten?",
+    "output": "Ya, informasi PMB UAJY disajikan secara konsisten."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Sampaikan informasi kesiapan studi yang didukung oleh UAJY.",
+    "input": "Apakah UAJY menyediakan informasi yang mendukung kesiapan studi?",
+    "output": "Ya, UAJY menyediakan informasi yang mendukung kesiapan studi calon mahasiswa."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Jelaskan dukungan PMB terhadap pemahaman awal akademik.",
+    "input": "Apakah PMB UAJY membantu mahasiswa memahami proses awal akademik?",
+    "output": "Ya, PMB UAJY membantu mahasiswa memahami proses awal akademik."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Jawab pertanyaan terkait relevansi PMB untuk sistem AI kampus.",
+    "input": "Apakah PMB UAJY relevan digunakan untuk pengembangan sistem AI kampus?",
+    "output": "Ya, PMB UAJY relevan digunakan untuk pengembangan sistem AI kampus."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Sampaikan peran PMB dalam keterbukaan akses pendidikan.",
+    "input": "Apakah informasi PMB mendukung keterbukaan akses pendidikan?",
+    "output": "Ya, informasi PMB mendukung keterbukaan akses pendidikan."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Berikan jawaban mengenai informasi kehidupan kampus.",
+    "input": "Apakah PMB UAJY memberikan informasi umum tentang kehidupan kampus?",
+    "output": "Ya, PMB UAJY memberikan informasi umum yang membantu calon mahasiswa mengenal kehidupan kampus."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Jelaskan apakah sistem perkuliahan dapat dipahami sebelum diterima.",
+    "input": "Apakah calon mahasiswa bisa memahami sistem perkuliahan sebelum resmi diterima?",
+    "output": "Ya, sistem perkuliahan dapat dipahami secara umum melalui informasi PMB UAJY."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Sampaikan informasi akademik terstruktur bagi pendaftar.",
+    "input": "Apakah UAJY menyediakan informasi akademik yang terstruktur bagi pendaftar?",
+    "output": "Ya, UAJY menyediakan informasi akademik yang disusun secara terstruktur."
+  },
+  {
+    "category": "Biaya",
+    "instruction": "Jawab pertanyaan terkait kejelasan bahasa biaya kuliah.",
+    "input": "Apakah informasi biaya kuliah disajikan dengan bahasa yang mudah dipahami?",
+    "output": "Ya, informasi biaya kuliah disajikan dengan bahasa yang mudah dipahami."
+  },
+  {
+    "category": "Biaya",
+    "instruction": "Jelaskan peran informasi biaya dalam penyesuaian kondisi ekonomi.",
+    "input": "Apakah calon mahasiswa dapat menyesuaikan pilihan studi dengan kondisi ekonomi?",
+    "output": "Ya, informasi biaya dan beasiswa membantu calon mahasiswa menyesuaikan pilihan studi."
+  },
+  {
+    "category": "Biaya",
+    "instruction": "Berikan penjelasan mengenai kewajiban finansial mahasiswa baru.",
+    "input": "Apakah terdapat informasi mengenai kewajiban finansial mahasiswa baru?",
+    "output": "Ya, PMB UAJY menyediakan informasi mengenai kewajiban finansial mahasiswa baru."
+  },
+  {
+    "category": "Beasiswa",
+    "instruction": "Jawab pertanyaan tentang akses awal informasi beasiswa.",
+    "input": "Apakah UAJY memberikan akses informasi beasiswa sejak awal penerimaan?",
+    "output": "Ya, informasi beasiswa dapat diakses sejak awal proses penerimaan mahasiswa baru."
+  },
+  {
+    "category": "Beasiswa",
+    "instruction": "Jelaskan tujuan pemerataan pendidikan melalui beasiswa UAJY.",
+    "input": "Apakah beasiswa UAJY ditujukan untuk mendorong pemerataan pendidikan?",
+    "output": "Ya, program beasiswa UAJY bertujuan mendorong pemerataan akses pendidikan."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Sampaikan manfaat PMB dalam perencanaan studi.",
+    "input": "Apakah calon mahasiswa dapat merencanakan studi berdasarkan informasi PMB?",
+    "output": "Ya, informasi PMB membantu calon mahasiswa merencanakan studi secara matang."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Jawab pertanyaan mengenai tahapan administrasi pasca penerimaan.",
+    "input": "Apakah PMB UAJY menjelaskan tahapan administrasi setelah penerimaan?",
+    "output": "Ya, PMB UAJY menjelaskan tahapan administrasi setelah calon mahasiswa diterima."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Jelaskan cakupan sasaran informasi PMB UAJY.",
+    "input": "Apakah informasi PMB UAJY ditujukan untuk berbagai latar belakang calon mahasiswa?",
+    "output": "Ya, informasi PMB UAJY ditujukan untuk calon mahasiswa dari berbagai latar belakang."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Berikan jawaban tentang dukungan adaptasi mahasiswa baru.",
+    "input": "Apakah UAJY menyediakan informasi yang membantu adaptasi mahasiswa baru?",
+    "output": "Ya, informasi PMB membantu mahasiswa baru dalam proses adaptasi akademik."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Sampaikan penjelasan tentang alur akademik awal.",
+    "input": "Apakah calon mahasiswa dapat memahami alur akademik sejak awal?",
+    "output": "Ya, alur akademik dijelaskan secara umum melalui PMB UAJY."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Jawab pertanyaan terkait keabsahan informasi PMB.",
+    "input": "Apakah PMB UAJY menyediakan informasi resmi yang dapat dipercaya?",
+    "output": "Ya, seluruh informasi PMB UAJY merupakan informasi resmi universitas."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Jelaskan tujuan penyusunan informasi PMB.",
+    "input": "Apakah informasi PMB disusun untuk mendukung pengambilan keputusan?",
+    "output": "Ya, informasi PMB disusun untuk mendukung pengambilan keputusan calon mahasiswa."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Sampaikan informasi yang relevan bagi wali calon mahasiswa.",
+    "input": "Apakah UAJY menyediakan informasi yang relevan bagi wali calon mahasiswa?",
+    "output": "Ya, UAJY menyediakan informasi yang relevan bagi wali calon mahasiswa."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Jawab pertanyaan mengenai PMB sebagai rujukan utama penerimaan.",
+    "input": "Apakah PMB UAJY dapat dijadikan rujukan utama penerimaan mahasiswa?",
+    "output": "Ya, PMB UAJY dapat dijadikan rujukan utama penerimaan mahasiswa baru."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Jelaskan dukungan PMB terhadap transparansi seleksi.",
+    "input": "Apakah informasi PMB mendukung transparansi proses seleksi?",
+    "output": "Ya, informasi PMB mendukung transparansi proses seleksi mahasiswa baru."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Berikan jawaban tentang akses PMB lintas perangkat.",
+    "input": "Apakah calon mahasiswa dapat mengakses PMB melalui berbagai perangkat?",
+    "output": "Ya, PMB UAJY dapat diakses melalui berbagai perangkat secara online."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Sampaikan informasi mengenai hak akademik calon mahasiswa.",
+    "input": "Apakah PMB UAJY membantu calon mahasiswa memahami hak akademik?",
+    "output": "Ya, PMB UAJY membantu calon mahasiswa memahami hak akademik secara umum."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Jawab pertanyaan tentang penggunaan PMB sebagai knowledge base.",
+    "input": "Apakah informasi PMB UAJY cocok dijadikan basis knowledge base kampus?",
+    "output": "Ya, informasi PMB UAJY cocok dijadikan basis knowledge base kampus."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Jelaskan peran PMB dalam digitalisasi pendidikan.",
+    "input": "Apakah PMB UAJY mendukung digitalisasi informasi pendidikan?",
+    "output": "Ya, PMB UAJY mendukung digitalisasi informasi pendidikan."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Sampaikan dukungan UAJY terhadap kesiapan administrasi.",
+    "input": "Apakah UAJY menyediakan informasi yang membantu kesiapan administrasi?",
+    "output": "Ya, UAJY menyediakan informasi yang membantu kesiapan administrasi calon mahasiswa."
+  },
+  {
+    "category": "PMB_Umum",
+    "instruction": "Jawab pertanyaan tentang pemahaman sistem pendidikan tinggi.",
+    "input": "Apakah informasi PMB membantu calon mahasiswa mengenal sistem pendidikan tinggi?",
+    "output": "Ya, informasi PMB membantu calon mahasiswa mengenal sistem pendidikan tinggi."
+  }
+]
